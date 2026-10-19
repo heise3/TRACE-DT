@@ -23,7 +23,9 @@ Use a new output directory. See examples/ for both small score tables and expect
 
 ## Verification
 
-The unchanged engine passed 21 tests and both examples reproduced their three expected TSVs byte for byte on macOS. The project contact independently reported the same 21-test pass and example parity on Linux on 19 October 2026; raw Linux logs and exact environment versions were not supplied. These are functional checks, not cross-platform performance measurements. A real ovarian-context derived-data replay is included; complete raw-to-derived acquisition is not claimed.
+The unchanged engine passed 21 tests and both examples reproduced their three expected TSVs byte for byte on macOS. Public [GitHub Actions run 39242947069](https://github.com/heise3/TRACE-DT/actions/runs/39242947069), using ubuntu-latest and Python 3.12, passed installation, the test suite and byte-identical example-table checks for the released commit. These are functional checks, not cross-platform performance measurements. A real ovarian-context derived-data replay is included; complete raw-to-derived acquisition is not claimed.
+
+The installable software and revision inputs and outputs are archived at [Zenodo 10.5281/zenodo.23472693](https://doi.org/10.5281/zenodo.23472693). The archive matches tag v1.2.1.post1; later documentation updates do not change that frozen release.
 
 ## Scientific applications and data
 
