@@ -1,0 +1,13 @@
+{
+  "gate": "PASS",
+  "input_sha256": "f7cebccf4517db488709a0ad8427e8ff0ed29d8f0355ad895c06b9ed13e3da47",
+  "budget": 3,
+  "tie_tolerance": 0.0,
+  "engine_version": "1.2.1",
+  "target_membership_emitted": true,
+  "contexts": 1,
+  "cells": 2,
+  "pairwise_comparisons": 1,
+  "bounds_valid": true,
+  "completed_utc": "2026-08-08T00:00:00+00:00"
+}

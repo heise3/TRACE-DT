@@ -1,0 +1,86 @@
+{
+  "source_sha256": "0d5e21aaa04a84bbd1f227e27e8a894f10fe6631afd38e0be9650e5e5062fb2e",
+  "feature_sha256": "3ce314e08d2f899fbc67e1e142b01a11849a9c9c9e4057d2f2ec106deff46cbc",
+  "join_pairs": 118126,
+  "unmatched_all_pairs": 10629,
+  "unmatched_eligible_pairs": 0,
+  "eligible_pairs": 107497,
+  "official_top50_parity": true,
+  "cutoff_baseline_cells": 805,
+  "stress_cells": 736,
+  "official_cells": 69,
+  "boundary_fits_check": "PASS",
+  "summaries": [
+    {
+      "min_rows": 1,
+      "contexts": 23,
+      "evaluable": 23,
+      "set_valued": 4,
+      "necessary_total": 1080,
+      "possible_total": 1245,
+      "mean_id_substitution": 0.0,
+      "candidate_total": 107497
+    },
+    {
+      "min_rows": 2,
+      "contexts": 23,
+      "evaluable": 23,
+      "set_valued": 0,
+      "necessary_total": 1150,
+      "possible_total": 1150,
+      "mean_id_substitution": 0.2808695652173913,
+      "candidate_total": 62021
+    },
+    {
+      "min_rows": 3,
+      "contexts": 23,
+      "evaluable": 23,
+      "set_valued": 0,
+      "necessary_total": 1150,
+      "possible_total": 1150,
+      "mean_id_substitution": 0.3721739130434783,
+      "candidate_total": 45497
+    }
+  ],
+  "composition": [
+    {
+      "state": "necessary",
+      "n": 1080,
+      "row_singleton": 253,
+      "only_europepmc": 372,
+      "both": 24,
+      "median_rows": 8.0,
+      "median_sources": 1.0
+    },
+    {
+      "state": "outside",
+      "n": 106252,
+      "row_singleton": 45058,
+      "only_europepmc": 90264,
+      "both": 37642,
+      "median_rows": 2.0,
+      "median_sources": 1.0
+    },
+    {
+      "state": "possible_unchosen",
+      "n": 95,
+      "row_singleton": 95,
+      "only_europepmc": 0,
+      "both": 0,
+      "median_rows": 1.0,
+      "median_sources": 1.0
+    },
+    {
+      "state": "tie_chosen",
+      "n": 70,
+      "row_singleton": 70,
+      "only_europepmc": 0,
+      "both": 0,
+      "median_rows": 1.0,
+      "median_sources": 1.0
+    }
+  ],
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "license_scope": "Existing generic engine MIT; historical database-specific workflows retain review-only terms"
+}

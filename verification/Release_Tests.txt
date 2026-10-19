@@ -1,0 +1,29 @@
+test_all_tied_lists_have_exact_bounds (test_trace_rank_audit.TestTraceRankAudit.test_all_tied_lists_have_exact_bounds) ... ok
+test_capacity_failure (test_trace_rank_audit.TestTraceRankAudit.test_capacity_failure) ... ok
+test_chance_overlap_uses_each_scored_universe (test_trace_rank_audit.TestTraceRankAudit.test_chance_overlap_uses_each_scored_universe) ... ok
+test_deterministic_tie_break_uses_candidate_identifier_only (test_trace_rank_audit.TestTraceRankAudit.test_deterministic_tie_break_uses_candidate_identifier_only) ... ok
+test_empty_or_padded_identifiers_fail_before_output_creation (test_trace_rank_audit.TestTraceRankAudit.test_empty_or_padded_identifiers_fail_before_output_creation) ... ok
+test_explicit_receipt_timestamp_is_byte_reproducible (test_trace_rank_audit.TestTraceRankAudit.test_explicit_receipt_timestamp_is_byte_reproducible) ... ok
+test_header_only_input_fails_closed_with_nonzero_cli_exit (test_trace_rank_audit.TestTraceRankAudit.test_header_only_input_fails_closed_with_nonzero_cli_exit) ... ok
+test_malformed_receipt_timestamp_is_controlled_cli_failure (test_trace_rank_audit.TestTraceRankAudit.test_malformed_receipt_timestamp_is_controlled_cli_failure) ... ok
+test_necessary_membership_equals_intersection_of_all_legal_lists (test_trace_rank_audit.TestTraceRankAudit.test_necessary_membership_equals_intersection_of_all_legal_lists)
+Exhaustively verify the defining quantifier for all N <= 6. ... ok
+test_negative_tolerance_rejected (test_trace_rank_audit.TestTraceRankAudit.test_negative_tolerance_rejected) ... ok
+test_no_tie_identical_lists (test_trace_rank_audit.TestTraceRankAudit.test_no_tie_identical_lists) ... ok
+test_nonempty_output_directory_is_refused_before_skip_membership_rerun (test_trace_rank_audit.TestTraceRankAudit.test_nonempty_output_directory_is_refused_before_skip_membership_rerun)
+A skip rerun cannot retain a stale target-membership file. ... ok
+test_nonfinite_and_malformed_tolerances_are_controlled_cli_failures (test_trace_rank_audit.TestTraceRankAudit.test_nonfinite_and_malformed_tolerances_are_controlled_cli_failures) ... ok
+test_output_schema_matches_actual_outputs (test_trace_rank_audit.TestTraceRankAudit.test_output_schema_matches_actual_outputs) ... ok
+test_output_uses_necessary_semantics_for_unique_cutoff (test_trace_rank_audit.TestTraceRankAudit.test_output_uses_necessary_semantics_for_unique_cutoff) ... ok
+test_proportional_budget_uses_floor_with_minimum_one (test_trace_rank_audit.TestTraceRankAudit.test_proportional_budget_uses_floor_with_minimum_one) ... ok
+test_receipt_timestamp_requires_timezone_aware_utc (test_trace_rank_audit.TestTraceRankAudit.test_receipt_timestamp_requires_timezone_aware_utc) ... ok
+test_sharp_bounds_equal_exhaustive_enumeration (test_trace_rank_audit.TestTraceRankAudit.test_sharp_bounds_equal_exhaustive_enumeration) ... ok
+test_sharp_bounds_exhaustive_all_three_level_scores_n4 (test_trace_rank_audit.TestTraceRankAudit.test_sharp_bounds_exhaustive_all_three_level_scores_n4)
+Exhaustively compare analytic bounds with legal-list enumeration. ... ok
+test_single_specification_writes_declared_empty_pairwise_table (test_trace_rank_audit.TestTraceRankAudit.test_single_specification_writes_declared_empty_pairwise_table) ... ok
+test_tolerance_expands_boundary_and_is_recorded (test_trace_rank_audit.TestTraceRankAudit.test_tolerance_expands_boundary_and_is_recorded) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.732s
+
+OK

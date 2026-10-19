@@ -1,0 +1,2 @@
+context_id	specification_a	specification_b	candidate_a_n	candidate_b_n	candidate_shared_n	candidate_union_n	intersection_expected_chance	intersection_deterministic	intersection_expected_uniform_tie	intersection_minimum	intersection_maximum	substitution_deterministic	substitution_expected_uniform_tie	substitution_lower_bound	substitution_upper_bound	chance_adjusted_stability_deterministic
+ASYMMETRIC	VIEW_A	VIEW_B	6	6	6	6	0.6666666666666666	1	0.5	0	1	0.5	0.75	0.5	1.0	0.25

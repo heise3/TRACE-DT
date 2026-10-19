@@ -1,0 +1,277 @@
+context_id	context_name	pool	score	min_rows	candidate_n	necessary_n	possible_n	selected_tie_n	possible_unchosen_n	set_valued	cutoff
+CCTX001	urinary bladder cancer	unrestricted	associationScore	1	6304	50	50	0	0	0	0.3986835115960669
+CCTX001	urinary bladder cancer	unrestricted	associationScore	2	3927	50	50	0	0	0	0.3986835115960669
+CCTX001	urinary bladder cancer	unrestricted	associationScore	3	3013	50	50	0	0	0	0.39760966939336323
+CCTX001	urinary bladder cancer	unrestricted	B01_EXACT_REPLAY	1	6304	50	50	0	0	0	0.39868351159606724
+CCTX001	urinary bladder cancer	unrestricted	B01_EXACT_REPLAY	2	3927	50	50	0	0	0	0.39868351159606724
+CCTX001	urinary bladder cancer	unrestricted	B01_EXACT_REPLAY	3	3013	50	50	0	0	0	0.39760966939336356
+CCTX001	urinary bladder cancer	restricted	associationScore	1	6086	50	50	0	0	0	0.10854084348139509
+CCTX001	urinary bladder cancer	restricted	associationScore	2	3764	50	50	0	0	0	0.10651665567034925
+CCTX001	urinary bladder cancer	restricted	associationScore	3	2866	50	50	0	0	0	0.10540426812701283
+CCTX001	urinary bladder cancer	restricted	B01_EXACT_REPLAY	1	6086	50	50	0	0	0	0.10854084348139517
+CCTX001	urinary bladder cancer	restricted	B01_EXACT_REPLAY	2	3764	50	50	0	0	0	0.10651665567034933
+CCTX001	urinary bladder cancer	restricted	B01_EXACT_REPLAY	3	2866	50	50	0	0	0	0.10540426812701291
+CCTX002	Ewing sarcoma	unrestricted	associationScore	1	1942	50	50	0	0	0	0.2149234018268888
+CCTX002	Ewing sarcoma	unrestricted	associationScore	2	1013	50	50	0	0	0	0.21450137652042192
+CCTX002	Ewing sarcoma	unrestricted	associationScore	3	689	50	50	0	0	0	0.2135763142804086
+CCTX002	Ewing sarcoma	unrestricted	B01_EXACT_REPLAY	1	1942	50	50	0	0	0	0.21492340182688896
+CCTX002	Ewing sarcoma	unrestricted	B01_EXACT_REPLAY	2	1013	50	50	0	0	0	0.2145013765204221
+CCTX002	Ewing sarcoma	unrestricted	B01_EXACT_REPLAY	3	689	50	50	0	0	0	0.21357631428040877
+CCTX002	Ewing sarcoma	restricted	associationScore	1	1779	50	50	0	0	0	0.07942580220767942
+CCTX002	Ewing sarcoma	restricted	associationScore	2	874	50	50	0	0	0	0.07898433361197965
+CCTX002	Ewing sarcoma	restricted	associationScore	3	603	50	50	0	0	0	0.07898433361197965
+CCTX002	Ewing sarcoma	restricted	B01_EXACT_REPLAY	1	1779	50	50	0	0	0	0.07942580220767949
+CCTX002	Ewing sarcoma	restricted	B01_EXACT_REPLAY	2	874	50	50	0	0	0	0.07898433361197972
+CCTX002	Ewing sarcoma	restricted	B01_EXACT_REPLAY	3	603	50	50	0	0	0	0.07898433361197972
+CCTX003	osteosarcoma	unrestricted	associationScore	1	6830	50	50	0	0	0	0.3243918476220271
+CCTX003	osteosarcoma	unrestricted	associationScore	2	4049	50	50	0	0	0	0.3243918476220271
+CCTX003	osteosarcoma	unrestricted	associationScore	3	3004	50	50	0	0	0	0.3243918476220271
+CCTX003	osteosarcoma	unrestricted	B01_EXACT_REPLAY	1	6830	50	50	0	0	0	0.3243918476220274
+CCTX003	osteosarcoma	unrestricted	B01_EXACT_REPLAY	2	4049	50	50	0	0	0	0.3243918476220274
+CCTX003	osteosarcoma	unrestricted	B01_EXACT_REPLAY	3	3004	50	50	0	0	0	0.3243918476220274
+CCTX003	osteosarcoma	restricted	associationScore	1	6240	50	50	0	0	0	0.10287040712468865
+CCTX003	osteosarcoma	restricted	associationScore	2	3586	50	50	0	0	0	0.10287040712468865
+CCTX003	osteosarcoma	restricted	associationScore	3	2607	50	50	0	0	0	0.10284883664042711
+CCTX003	osteosarcoma	restricted	B01_EXACT_REPLAY	1	6240	50	50	0	0	0	0.10287040712468873
+CCTX003	osteosarcoma	restricted	B01_EXACT_REPLAY	2	3586	50	50	0	0	0	0.10287040712468873
+CCTX003	osteosarcoma	restricted	B01_EXACT_REPLAY	3	2607	50	50	0	0	0	0.1028488366404272
+CCTX004	colorectal adenocarcinoma	unrestricted	associationScore	1	4845	50	50	0	0	0	0.41690044993050995
+CCTX004	colorectal adenocarcinoma	unrestricted	associationScore	2	1676	50	50	0	0	0	0.41690044993050995
+CCTX004	colorectal adenocarcinoma	unrestricted	associationScore	3	881	50	50	0	0	0	0.4149065630683832
+CCTX004	colorectal adenocarcinoma	unrestricted	B01_EXACT_REPLAY	1	4845	50	50	0	0	0	0.4169004499305103
+CCTX004	colorectal adenocarcinoma	unrestricted	B01_EXACT_REPLAY	2	1676	50	50	0	0	0	0.4169004499305103
+CCTX004	colorectal adenocarcinoma	unrestricted	B01_EXACT_REPLAY	3	881	50	50	0	0	0	0.4149065630683836
+CCTX004	colorectal adenocarcinoma	restricted	associationScore	1	4028	49	111	1	61	1	0.05550373440079918
+CCTX004	colorectal adenocarcinoma	restricted	associationScore	2	1230	50	50	0	0	0	0.048548626152748235
+CCTX004	colorectal adenocarcinoma	restricted	associationScore	3	596	50	50	0	0	0	0.043118487208034184
+CCTX004	colorectal adenocarcinoma	restricted	B01_EXACT_REPLAY	1	4028	49	111	1	61	1	0.055503734400799226
+CCTX004	colorectal adenocarcinoma	restricted	B01_EXACT_REPLAY	2	1230	50	50	0	0	0	0.04854862615274828
+CCTX004	colorectal adenocarcinoma	restricted	B01_EXACT_REPLAY	3	596	50	50	0	0	0	0.04311848720803422
+CCTX005	invasive breast carcinoma	unrestricted	associationScore	1	4049	50	50	0	0	0	0.2786749998040125
+CCTX005	invasive breast carcinoma	unrestricted	associationScore	2	1741	50	50	0	0	0	0.2786749998040125
+CCTX005	invasive breast carcinoma	unrestricted	associationScore	3	1022	50	50	0	0	0	0.27825358256133975
+CCTX005	invasive breast carcinoma	unrestricted	B01_EXACT_REPLAY	1	4049	50	50	0	0	0	0.2786749998040127
+CCTX005	invasive breast carcinoma	unrestricted	B01_EXACT_REPLAY	2	1741	50	50	0	0	0	0.2786749998040127
+CCTX005	invasive breast carcinoma	unrestricted	B01_EXACT_REPLAY	3	1022	50	50	0	0	0	0.27825358256134
+CCTX005	invasive breast carcinoma	restricted	associationScore	1	3846	50	50	0	0	0	0.07400497920106557
+CCTX005	invasive breast carcinoma	restricted	associationScore	2	1620	50	50	0	0	0	0.04401070431519194
+CCTX005	invasive breast carcinoma	restricted	associationScore	3	926	50	50	0	0	0	0.039099297344562974
+CCTX005	invasive breast carcinoma	restricted	B01_EXACT_REPLAY	1	3846	50	50	0	0	0	0.07400497920106563
+CCTX005	invasive breast carcinoma	restricted	B01_EXACT_REPLAY	2	1620	50	50	0	0	0	0.044010704315191974
+CCTX005	invasive breast carcinoma	restricted	B01_EXACT_REPLAY	3	926	50	50	0	0	0	0.03909929734456301
+CCTX006	brain glioma	unrestricted	associationScore	1	589	45	56	5	6	1	0.09250622400133196
+CCTX006	brain glioma	unrestricted	associationScore	2	157	50	50	0	0	0	0.014130428500896793
+CCTX006	brain glioma	unrestricted	associationScore	3	80	50	50	0	0	0	0.00913320056048065
+CCTX006	brain glioma	unrestricted	B01_EXACT_REPLAY	1	589	45	56	5	6	1	0.09250622400133204
+CCTX006	brain glioma	unrestricted	B01_EXACT_REPLAY	2	157	50	50	0	0	0	0.014130428500896805
+CCTX006	brain glioma	unrestricted	B01_EXACT_REPLAY	3	80	50	50	0	0	0	0.00913320056048066
+CCTX006	brain glioma	restricted	associationScore	1	544	50	50	0	0	0	0.01924129459227705
+CCTX006	brain glioma	restricted	associationScore	2	147	50	50	0	0	0	0.010802671269488877
+CCTX006	brain glioma	restricted	associationScore	3	74	50	50	0	0	0	0.006352094048091462
+CCTX006	brain glioma	restricted	B01_EXACT_REPLAY	1	544	50	50	0	0	0	0.019241294592277067
+CCTX006	brain glioma	restricted	B01_EXACT_REPLAY	2	147	50	50	0	0	0	0.010802671269488886
+CCTX006	brain glioma	restricted	B01_EXACT_REPLAY	3	74	50	50	0	0	0	0.006352094048091467
+CCTX007	cervical cancer	unrestricted	associationScore	1	6381	50	50	0	0	0	0.31680542601811756
+CCTX007	cervical cancer	unrestricted	associationScore	2	4054	50	50	0	0	0	0.31680542601811756
+CCTX007	cervical cancer	unrestricted	associationScore	3	3048	50	50	0	0	0	0.30990797824060756
+CCTX007	cervical cancer	unrestricted	B01_EXACT_REPLAY	1	6381	50	50	0	0	0	0.31680542601811784
+CCTX007	cervical cancer	unrestricted	B01_EXACT_REPLAY	2	4054	50	50	0	0	0	0.31680542601811784
+CCTX007	cervical cancer	unrestricted	B01_EXACT_REPLAY	3	3048	50	50	0	0	0	0.3099079782406078
+CCTX007	cervical cancer	restricted	associationScore	1	6171	50	50	0	0	0	0.10324393189632318
+CCTX007	cervical cancer	restricted	associationScore	2	3863	50	50	0	0	0	0.10324393189632318
+CCTX007	cervical cancer	restricted	associationScore	3	2877	50	50	0	0	0	0.10313144628574945
+CCTX007	cervical cancer	restricted	B01_EXACT_REPLAY	1	6171	50	50	0	0	0	0.10324393189632326
+CCTX007	cervical cancer	restricted	B01_EXACT_REPLAY	2	3863	50	50	0	0	0	0.10324393189632326
+CCTX007	cervical cancer	restricted	B01_EXACT_REPLAY	3	2877	50	50	0	0	0	0.10313144628574954
+CCTX008	esophageal squamous cell carcinoma	unrestricted	associationScore	1	6474	50	50	0	0	0	0.31547465455980334
+CCTX008	esophageal squamous cell carcinoma	unrestricted	associationScore	2	3899	50	50	0	0	0	0.31547465455980334
+CCTX008	esophageal squamous cell carcinoma	unrestricted	associationScore	3	2906	50	50	0	0	0	0.31547465455980334
+CCTX008	esophageal squamous cell carcinoma	unrestricted	B01_EXACT_REPLAY	1	6474	50	50	0	0	0	0.3154746545598036
+CCTX008	esophageal squamous cell carcinoma	unrestricted	B01_EXACT_REPLAY	2	3899	50	50	0	0	0	0.3154746545598036
+CCTX008	esophageal squamous cell carcinoma	unrestricted	B01_EXACT_REPLAY	3	2906	50	50	0	0	0	0.3154746545598036
+CCTX008	esophageal squamous cell carcinoma	restricted	associationScore	1	5680	50	50	0	0	0	0.11039697202079844
+CCTX008	esophageal squamous cell carcinoma	restricted	associationScore	2	3315	50	50	0	0	0	0.10990120349847883
+CCTX008	esophageal squamous cell carcinoma	restricted	associationScore	3	2434	50	50	0	0	0	0.10972970442898078
+CCTX008	esophageal squamous cell carcinoma	restricted	B01_EXACT_REPLAY	1	5680	50	50	0	0	0	0.11039697202079854
+CCTX008	esophageal squamous cell carcinoma	restricted	B01_EXACT_REPLAY	2	3315	50	50	0	0	0	0.10990120349847891
+CCTX008	esophageal squamous cell carcinoma	restricted	B01_EXACT_REPLAY	3	2434	50	50	0	0	0	0.10972970442898086
+CCTX009	head and neck squamous cell carcinoma	unrestricted	associationScore	1	6834	50	50	0	0	0	0.39400319991668287
+CCTX009	head and neck squamous cell carcinoma	unrestricted	associationScore	2	4020	50	50	0	0	0	0.39400319991668287
+CCTX009	head and neck squamous cell carcinoma	unrestricted	associationScore	3	2938	50	50	0	0	0	0.39400319991668287
+CCTX009	head and neck squamous cell carcinoma	unrestricted	B01_EXACT_REPLAY	1	6834	50	50	0	0	0	0.3940031999166832
+CCTX009	head and neck squamous cell carcinoma	unrestricted	B01_EXACT_REPLAY	2	4020	50	50	0	0	0	0.3940031999166832
+CCTX009	head and neck squamous cell carcinoma	unrestricted	B01_EXACT_REPLAY	3	2938	50	50	0	0	0	0.3940031999166832
+CCTX009	head and neck squamous cell carcinoma	restricted	associationScore	1	5890	50	50	0	0	0	0.1047042998300206
+CCTX009	head and neck squamous cell carcinoma	restricted	associationScore	2	3244	50	50	0	0	0	0.1047042998300206
+CCTX009	head and neck squamous cell carcinoma	restricted	associationScore	3	2289	50	50	0	0	0	0.1047042998300206
+CCTX009	head and neck squamous cell carcinoma	restricted	B01_EXACT_REPLAY	1	5890	50	50	0	0	0	0.10470429983002068
+CCTX009	head and neck squamous cell carcinoma	restricted	B01_EXACT_REPLAY	2	3244	50	50	0	0	0	0.10470429983002068
+CCTX009	head and neck squamous cell carcinoma	restricted	B01_EXACT_REPLAY	3	2289	50	50	0	0	0	0.10470429983002068
+CCTX010	renal cell carcinoma	unrestricted	associationScore	1	5483	50	50	0	0	0	0.3774083097597694
+CCTX010	renal cell carcinoma	unrestricted	associationScore	2	3394	50	50	0	0	0	0.3774083097597694
+CCTX010	renal cell carcinoma	unrestricted	associationScore	3	2609	50	50	0	0	0	0.3774083097597694
+CCTX010	renal cell carcinoma	unrestricted	B01_EXACT_REPLAY	1	5483	50	50	0	0	0	0.3774083097597697
+CCTX010	renal cell carcinoma	unrestricted	B01_EXACT_REPLAY	2	3394	50	50	0	0	0	0.3774083097597697
+CCTX010	renal cell carcinoma	unrestricted	B01_EXACT_REPLAY	3	2609	50	50	0	0	0	0.3774083097597697
+CCTX010	renal cell carcinoma	restricted	associationScore	1	5077	50	50	0	0	0	0.10515523785416053
+CCTX010	renal cell carcinoma	restricted	associationScore	2	3019	50	50	0	0	0	0.10479739618490638
+CCTX010	renal cell carcinoma	restricted	associationScore	3	2255	50	50	0	0	0	0.10479739618490638
+CCTX010	renal cell carcinoma	restricted	B01_EXACT_REPLAY	1	5077	50	50	0	0	0	0.10515523785416063
+CCTX010	renal cell carcinoma	restricted	B01_EXACT_REPLAY	2	3019	50	50	0	0	0	0.10479739618490647
+CCTX010	renal cell carcinoma	restricted	B01_EXACT_REPLAY	3	2255	50	50	0	0	0	0.10479739618490647
+CCTX011	hepatocellular carcinoma	unrestricted	associationScore	1	13674	50	50	0	0	0	0.4506160429646778
+CCTX011	hepatocellular carcinoma	unrestricted	associationScore	2	10459	50	50	0	0	0	0.4506160429646778
+CCTX011	hepatocellular carcinoma	unrestricted	associationScore	3	8672	50	50	0	0	0	0.4506160429646778
+CCTX011	hepatocellular carcinoma	unrestricted	B01_EXACT_REPLAY	1	13674	50	50	0	0	0	0.4506160429646781
+CCTX011	hepatocellular carcinoma	unrestricted	B01_EXACT_REPLAY	2	10459	50	50	0	0	0	0.4506160429646781
+CCTX011	hepatocellular carcinoma	unrestricted	B01_EXACT_REPLAY	3	8672	50	50	0	0	0	0.4506160429646781
+CCTX011	hepatocellular carcinoma	restricted	associationScore	1	12680	50	50	0	0	0	0.12815246508743797
+CCTX011	hepatocellular carcinoma	restricted	associationScore	2	9510	50	50	0	0	0	0.12691078102629286
+CCTX011	hepatocellular carcinoma	restricted	associationScore	3	7789	50	50	0	0	0	0.12691078102629286
+CCTX011	hepatocellular carcinoma	restricted	B01_EXACT_REPLAY	1	12680	50	50	0	0	0	0.12815246508743808
+CCTX011	hepatocellular carcinoma	restricted	B01_EXACT_REPLAY	2	9510	50	50	0	0	0	0.12691078102629297
+CCTX011	hepatocellular carcinoma	restricted	B01_EXACT_REPLAY	3	7789	50	50	0	0	0	0.12691078102629297
+CCTX012	non-small cell lung carcinoma	unrestricted	associationScore	1	10918	50	50	0	0	0	0.5996841603098029
+CCTX012	non-small cell lung carcinoma	unrestricted	associationScore	2	7513	50	50	0	0	0	0.5996841603098029
+CCTX012	non-small cell lung carcinoma	unrestricted	associationScore	3	5972	50	50	0	0	0	0.5996841603098029
+CCTX012	non-small cell lung carcinoma	unrestricted	B01_EXACT_REPLAY	1	10918	50	50	0	0	0	0.5996841603098034
+CCTX012	non-small cell lung carcinoma	unrestricted	B01_EXACT_REPLAY	2	7513	50	50	0	0	0	0.5996841603098034
+CCTX012	non-small cell lung carcinoma	unrestricted	B01_EXACT_REPLAY	3	5972	50	50	0	0	0	0.5996841603098034
+CCTX012	non-small cell lung carcinoma	restricted	associationScore	1	9841	50	50	0	0	0	0.11832179576839061
+CCTX012	non-small cell lung carcinoma	restricted	associationScore	2	6531	50	50	0	0	0	0.11832179576839061
+CCTX012	non-small cell lung carcinoma	restricted	associationScore	3	5064	50	50	0	0	0	0.11818235934817065
+CCTX012	non-small cell lung carcinoma	restricted	B01_EXACT_REPLAY	1	9841	50	50	0	0	0	0.1183217957683907
+CCTX012	non-small cell lung carcinoma	restricted	B01_EXACT_REPLAY	2	6531	50	50	0	0	0	0.1183217957683907
+CCTX012	non-small cell lung carcinoma	restricted	B01_EXACT_REPLAY	3	5064	50	50	0	0	0	0.11818235934817073
+CCTX014	B-cell acute lymphoblastic leukemia	unrestricted	associationScore	1	1189	39	54	11	4	1	0.33722525736558423
+CCTX014	B-cell acute lymphoblastic leukemia	unrestricted	associationScore	2	392	37	52	13	2	1	0.33722525736558423
+CCTX014	B-cell acute lymphoblastic leukemia	unrestricted	associationScore	3	247	50	50	0	0	0	0.33722525736558423
+CCTX014	B-cell acute lymphoblastic leukemia	unrestricted	B01_EXACT_REPLAY	1	1189	39	54	11	4	1	0.3372252573655845
+CCTX014	B-cell acute lymphoblastic leukemia	unrestricted	B01_EXACT_REPLAY	2	392	37	52	13	2	1	0.3372252573655845
+CCTX014	B-cell acute lymphoblastic leukemia	unrestricted	B01_EXACT_REPLAY	3	247	50	50	0	0	0	0.3372252573655845
+CCTX014	B-cell acute lymphoblastic leukemia	restricted	associationScore	1	550	25	68	25	18	1	0.09250622400133196
+CCTX014	B-cell acute lymphoblastic leukemia	restricted	associationScore	2	191	50	50	0	0	0	0.01303112732685974
+CCTX014	B-cell acute lymphoblastic leukemia	restricted	associationScore	3	101	50	50	0	0	0	0.009777496738167447
+CCTX014	B-cell acute lymphoblastic leukemia	restricted	B01_EXACT_REPLAY	1	550	25	68	25	18	1	0.09250622400133204
+CCTX014	B-cell acute lymphoblastic leukemia	restricted	B01_EXACT_REPLAY	2	191	50	50	0	0	0	0.013031127326859751
+CCTX014	B-cell acute lymphoblastic leukemia	restricted	B01_EXACT_REPLAY	3	101	50	50	0	0	0	0.009777496738167456
+CCTX017	acute myeloid leukemia	unrestricted	associationScore	1	8628	50	50	0	0	0	0.5447076527324316
+CCTX017	acute myeloid leukemia	unrestricted	associationScore	2	5468	50	50	0	0	0	0.5447076527324316
+CCTX017	acute myeloid leukemia	unrestricted	associationScore	3	4264	50	50	0	0	0	0.5447076527324316
+CCTX017	acute myeloid leukemia	unrestricted	B01_EXACT_REPLAY	1	8628	50	50	0	0	0	0.544707652732432
+CCTX017	acute myeloid leukemia	unrestricted	B01_EXACT_REPLAY	2	5468	50	50	0	0	0	0.544707652732432
+CCTX017	acute myeloid leukemia	unrestricted	B01_EXACT_REPLAY	3	4264	50	50	0	0	0	0.544707652732432
+CCTX017	acute myeloid leukemia	restricted	associationScore	1	7630	50	50	0	0	0	0.11507432278201002
+CCTX017	acute myeloid leukemia	restricted	associationScore	2	4553	50	50	0	0	0	0.11369540271422576
+CCTX017	acute myeloid leukemia	restricted	associationScore	3	3409	50	50	0	0	0	0.11359829936084875
+CCTX017	acute myeloid leukemia	restricted	B01_EXACT_REPLAY	1	7630	50	50	0	0	0	0.11507432278201012
+CCTX017	acute myeloid leukemia	restricted	B01_EXACT_REPLAY	2	4553	50	50	0	0	0	0.11369540271422586
+CCTX017	acute myeloid leukemia	restricted	B01_EXACT_REPLAY	3	3409	50	50	0	0	0	0.11359829936084885
+CCTX019	ovarian epithelial tumor	unrestricted	associationScore	1	540	49	51	1	1	1	0.0943563484813586
+CCTX019	ovarian epithelial tumor	unrestricted	associationScore	2	191	50	50	0	0	0	0.023492200868250226
+CCTX019	ovarian epithelial tumor	unrestricted	associationScore	3	102	50	50	0	0	0	0.016149724000271717
+CCTX019	ovarian epithelial tumor	unrestricted	B01_EXACT_REPLAY	1	540	49	51	1	1	1	0.09435634848135867
+CCTX019	ovarian epithelial tumor	unrestricted	B01_EXACT_REPLAY	2	191	50	50	0	0	0	0.023492200868250244
+CCTX019	ovarian epithelial tumor	unrestricted	B01_EXACT_REPLAY	3	102	50	50	0	0	0	0.01614972400027173
+CCTX019	ovarian epithelial tumor	restricted	associationScore	1	476	50	50	0	0	0	0.017021145216245082
+CCTX019	ovarian epithelial tumor	restricted	associationScore	2	150	50	50	0	0	0	0.012642517280182036
+CCTX019	ovarian epithelial tumor	restricted	associationScore	3	78	50	50	0	0	0	0.009415077909468897
+CCTX019	ovarian epithelial tumor	restricted	B01_EXACT_REPLAY	1	476	50	50	0	0	0	0.017021145216245096
+CCTX019	ovarian epithelial tumor	restricted	B01_EXACT_REPLAY	2	150	50	50	0	0	0	0.012642517280182047
+CCTX019	ovarian epithelial tumor	restricted	B01_EXACT_REPLAY	3	78	50	50	0	0	0	0.009415077909468904
+CCTX020	pancreatic adenocarcinoma	unrestricted	associationScore	1	5301	50	50	0	0	0	0.32465653515527304
+CCTX020	pancreatic adenocarcinoma	unrestricted	associationScore	2	2361	50	50	0	0	0	0.32465653515527304
+CCTX020	pancreatic adenocarcinoma	unrestricted	associationScore	3	1501	50	50	0	0	0	0.3199683120898947
+CCTX020	pancreatic adenocarcinoma	unrestricted	B01_EXACT_REPLAY	1	5301	50	50	0	0	0	0.3246565351552733
+CCTX020	pancreatic adenocarcinoma	unrestricted	B01_EXACT_REPLAY	2	2361	50	50	0	0	0	0.3246565351552733
+CCTX020	pancreatic adenocarcinoma	unrestricted	B01_EXACT_REPLAY	3	1501	50	50	0	0	0	0.31996831208989496
+CCTX020	pancreatic adenocarcinoma	restricted	associationScore	1	4969	50	50	0	0	0	0.08310615541793029
+CCTX020	pancreatic adenocarcinoma	restricted	associationScore	2	2088	50	50	0	0	0	0.0807714819052655
+CCTX020	pancreatic adenocarcinoma	restricted	associationScore	3	1274	50	50	0	0	0	0.07997676988381822
+CCTX020	pancreatic adenocarcinoma	restricted	B01_EXACT_REPLAY	1	4969	50	50	0	0	0	0.08310615541793036
+CCTX020	pancreatic adenocarcinoma	restricted	B01_EXACT_REPLAY	2	2088	50	50	0	0	0	0.08077148190526556
+CCTX020	pancreatic adenocarcinoma	restricted	B01_EXACT_REPLAY	3	1274	50	50	0	0	0	0.07997676988381829
+CCTX021	neuroblastoma	unrestricted	associationScore	1	6836	50	50	0	0	0	0.3168186594382771
+CCTX021	neuroblastoma	unrestricted	associationScore	2	4275	50	50	0	0	0	0.3168186594382771
+CCTX021	neuroblastoma	unrestricted	associationScore	3	3146	50	50	0	0	0	0.29486479764889345
+CCTX021	neuroblastoma	unrestricted	B01_EXACT_REPLAY	1	6836	50	50	0	0	0	0.31681865943827736
+CCTX021	neuroblastoma	unrestricted	B01_EXACT_REPLAY	2	4275	50	50	0	0	0	0.31681865943827736
+CCTX021	neuroblastoma	unrestricted	B01_EXACT_REPLAY	3	3146	50	50	0	0	0	0.29486479764889373
+CCTX021	neuroblastoma	restricted	associationScore	1	6665	50	50	0	0	0	0.11193253104161167
+CCTX021	neuroblastoma	restricted	associationScore	2	4110	50	50	0	0	0	0.11038425233764701
+CCTX021	neuroblastoma	restricted	associationScore	3	2993	50	50	0	0	0	0.11025771882357782
+CCTX021	neuroblastoma	restricted	B01_EXACT_REPLAY	1	6665	50	50	0	0	0	0.11193253104161176
+CCTX021	neuroblastoma	restricted	B01_EXACT_REPLAY	2	4110	50	50	0	0	0	0.1103842523376471
+CCTX021	neuroblastoma	restricted	B01_EXACT_REPLAY	3	2993	50	50	0	0	0	0.11025771882357792
+CCTX022	malignant pleural mesothelioma	unrestricted	associationScore	1	714	50	50	0	0	0	0.21719433548579403
+CCTX022	malignant pleural mesothelioma	unrestricted	associationScore	2	354	50	50	0	0	0	0.21719433548579403
+CCTX022	malignant pleural mesothelioma	unrestricted	associationScore	3	221	50	50	0	0	0	0.21719433548579403
+CCTX022	malignant pleural mesothelioma	unrestricted	B01_EXACT_REPLAY	1	714	50	50	0	0	0	0.2171943354857942
+CCTX022	malignant pleural mesothelioma	unrestricted	B01_EXACT_REPLAY	2	354	50	50	0	0	0	0.2171943354857942
+CCTX022	malignant pleural mesothelioma	unrestricted	B01_EXACT_REPLAY	3	221	50	50	0	0	0	0.2171943354857942
+CCTX022	malignant pleural mesothelioma	restricted	associationScore	1	594	50	50	0	0	0	0.018295675413596765
+CCTX022	malignant pleural mesothelioma	restricted	associationScore	2	273	50	50	0	0	0	0.0162399815469005
+CCTX022	malignant pleural mesothelioma	restricted	associationScore	3	154	50	50	0	0	0	0.014925147163880752
+CCTX022	malignant pleural mesothelioma	restricted	B01_EXACT_REPLAY	1	594	50	50	0	0	0	0.01829567541359678
+CCTX022	malignant pleural mesothelioma	restricted	B01_EXACT_REPLAY	2	273	50	50	0	0	0	0.016239981546900515
+CCTX022	malignant pleural mesothelioma	restricted	B01_EXACT_REPLAY	3	154	50	50	0	0	0	0.014925147163880765
+CCTX023	melanoma	unrestricted	associationScore	1	9207	50	50	0	0	0	0.4369917506610287
+CCTX023	melanoma	unrestricted	associationScore	2	6321	50	50	0	0	0	0.4369917506610287
+CCTX023	melanoma	unrestricted	associationScore	3	5025	50	50	0	0	0	0.43663495107481026
+CCTX023	melanoma	unrestricted	B01_EXACT_REPLAY	1	9207	50	50	0	0	0	0.4369917506610291
+CCTX023	melanoma	unrestricted	B01_EXACT_REPLAY	2	6321	50	50	0	0	0	0.4369917506610291
+CCTX023	melanoma	unrestricted	B01_EXACT_REPLAY	3	5025	50	50	0	0	0	0.43663495107481065
+CCTX023	melanoma	restricted	associationScore	1	8236	12	61	38	11	1	0.37002489600532784
+CCTX023	melanoma	restricted	associationScore	2	5423	50	50	0	0	0	0.1270259012711229
+CCTX023	melanoma	restricted	associationScore	3	4183	50	50	0	0	0	0.1192073660799166
+CCTX023	melanoma	restricted	B01_EXACT_REPLAY	1	8236	12	61	38	11	1	0.3700248960053282
+CCTX023	melanoma	restricted	B01_EXACT_REPLAY	2	5423	50	50	0	0	0	0.127025901271123
+CCTX023	melanoma	restricted	B01_EXACT_REPLAY	3	4183	50	50	0	0	0	0.1192073660799167
+CCTX024	rhabdomyosarcoma	unrestricted	associationScore	1	1803	50	50	0	0	0	0.2973826268290846
+CCTX024	rhabdomyosarcoma	unrestricted	associationScore	2	904	50	50	0	0	0	0.28784950602400106
+CCTX024	rhabdomyosarcoma	unrestricted	associationScore	3	641	50	50	0	0	0	0.28766695302619866
+CCTX024	rhabdomyosarcoma	unrestricted	B01_EXACT_REPLAY	1	1803	50	50	0	0	0	0.29738262682908484
+CCTX024	rhabdomyosarcoma	unrestricted	B01_EXACT_REPLAY	2	904	50	50	0	0	0	0.2878495060240013
+CCTX024	rhabdomyosarcoma	unrestricted	B01_EXACT_REPLAY	3	641	50	50	0	0	0	0.2876669530261989
+CCTX024	rhabdomyosarcoma	restricted	associationScore	1	1660	44	55	6	5	1	0.09250622400133196
+CCTX024	rhabdomyosarcoma	restricted	associationScore	2	789	50	50	0	0	0	0.06530939414494036
+CCTX024	rhabdomyosarcoma	restricted	associationScore	3	540	50	50	0	0	0	0.05938385657418838
+CCTX024	rhabdomyosarcoma	restricted	B01_EXACT_REPLAY	1	1660	44	55	6	5	1	0.09250622400133204
+CCTX024	rhabdomyosarcoma	restricted	B01_EXACT_REPLAY	2	789	50	50	0	0	0	0.06530939414494041
+CCTX024	rhabdomyosarcoma	restricted	B01_EXACT_REPLAY	3	540	50	50	0	0	0	0.05938385657418843
+CCTX025	endometrial carcinoma	unrestricted	associationScore	1	3188	50	50	0	0	0	0.35866673288381107
+CCTX025	endometrial carcinoma	unrestricted	associationScore	2	1206	50	50	0	0	0	0.3471513535009055
+CCTX025	endometrial carcinoma	unrestricted	associationScore	3	757	50	50	0	0	0	0.3458542808536228
+CCTX025	endometrial carcinoma	unrestricted	B01_EXACT_REPLAY	1	3188	50	50	0	0	0	0.3586667328838114
+CCTX025	endometrial carcinoma	unrestricted	B01_EXACT_REPLAY	2	1206	50	50	0	0	0	0.34715135350090576
+CCTX025	endometrial carcinoma	unrestricted	B01_EXACT_REPLAY	3	757	50	50	0	0	0	0.3458542808536231
+CCTX025	endometrial carcinoma	restricted	associationScore	1	2783	50	50	0	0	0	0.09250622400133196
+CCTX025	endometrial carcinoma	restricted	associationScore	2	940	50	50	0	0	0	0.06417876251825742
+CCTX025	endometrial carcinoma	restricted	associationScore	3	600	50	50	0	0	0	0.05793973163283426
+CCTX025	endometrial carcinoma	restricted	B01_EXACT_REPLAY	1	2783	50	50	0	0	0	0.09250622400133204
+CCTX025	endometrial carcinoma	restricted	B01_EXACT_REPLAY	2	940	50	50	0	0	0	0.06417876251825748
+CCTX025	endometrial carcinoma	restricted	B01_EXACT_REPLAY	3	600	50	50	0	0	0	0.05793973163283431
+CCTX026	thyroid cancer	unrestricted	associationScore	1	4190	50	50	0	0	0	0.28660755068596555
+CCTX026	thyroid cancer	unrestricted	associationScore	2	2239	48	56	2	6	1	0.2839427153374217
+CCTX026	thyroid cancer	unrestricted	associationScore	3	1568	44	52	6	2	1	0.2839427153374217
+CCTX026	thyroid cancer	unrestricted	B01_EXACT_REPLAY	1	4190	50	50	0	0	0	0.2866075506859658
+CCTX026	thyroid cancer	unrestricted	B01_EXACT_REPLAY	2	2239	48	56	2	6	1	0.28394271533742194
+CCTX026	thyroid cancer	unrestricted	B01_EXACT_REPLAY	3	1568	44	52	6	2	1	0.28394271533742194
+CCTX026	thyroid cancer	restricted	associationScore	1	3945	50	50	0	0	0	0.10065078293744635
+CCTX026	thyroid cancer	restricted	associationScore	2	2085	50	50	0	0	0	0.08583035816923583
+CCTX026	thyroid cancer	restricted	associationScore	3	1449	50	50	0	0	0	0.08503507946257229
+CCTX026	thyroid cancer	restricted	B01_EXACT_REPLAY	1	3945	50	50	0	0	0	0.10065078293744643
+CCTX026	thyroid cancer	restricted	B01_EXACT_REPLAY	2	2085	50	50	0	0	0	0.0858303581692359
+CCTX026	thyroid cancer	restricted	B01_EXACT_REPLAY	3	1449	50	50	0	0	0	0.08503507946257235
+CCTX027	testicular germ cell tumor	unrestricted	associationScore	1	2207	50	50	0	0	0	0.15649384850498438
+CCTX027	testicular germ cell tumor	unrestricted	associationScore	2	768	43	57	7	7	1	0.09250622400133196
+CCTX027	testicular germ cell tumor	unrestricted	associationScore	3	364	50	50	0	0	0	0.06639603392287602
+CCTX027	testicular germ cell tumor	unrestricted	B01_EXACT_REPLAY	1	2207	50	50	0	0	0	0.1564938485049845
+CCTX027	testicular germ cell tumor	unrestricted	B01_EXACT_REPLAY	2	768	43	57	7	7	1	0.09250622400133204
+CCTX027	testicular germ cell tumor	unrestricted	B01_EXACT_REPLAY	3	364	50	50	0	0	0	0.06639603392287607
+CCTX027	testicular germ cell tumor	restricted	associationScore	1	2127	50	50	0	0	0	0.06852861074018672
+CCTX027	testicular germ cell tumor	restricted	associationScore	2	716	50	50	0	0	0	0.0655129078377433
+CCTX027	testicular germ cell tumor	restricted	associationScore	3	336	50	50	0	0	0	0.05319652638951262
+CCTX027	testicular germ cell tumor	restricted	B01_EXACT_REPLAY	1	2127	50	50	0	0	0	0.06852861074018678
+CCTX027	testicular germ cell tumor	restricted	B01_EXACT_REPLAY	2	716	50	50	0	0	0	0.06551290783774336
+CCTX027	testicular germ cell tumor	restricted	B01_EXACT_REPLAY	3	336	50	50	0	0	0	0.05319652638951266

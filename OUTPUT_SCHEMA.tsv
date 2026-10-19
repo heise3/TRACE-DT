@@ -1,0 +1,47 @@
+file	column	type	description
+cell_contract.tsv	context_id	string	context or decision-task identifier
+cell_contract.tsv	specification_id	string	score-view or analysis-specification identifier
+cell_contract.tsv	candidate_n	integer	number of distinct finite-score candidates
+cell_contract.tsv	budget	integer	fixed list capacity
+cell_contract.tsv	cutoff_score	float	unrounded score at the capacity boundary
+cell_contract.tsv	necessary_n	integer	candidates selected in every legal capacity-B realization
+cell_contract.tsv	tie_block_n	integer	candidates within the declared absolute cutoff tolerance
+cell_contract.tsv	remaining_tie_seats	integer	seats allocated from the complete boundary tie block
+cell_contract.tsv	possible_n	integer	candidates selected in at least one legal capacity-B realization
+cell_contract.tsv	boundary_set_valued	integer	one when the boundary block exceeds its available seats and membership is non-unique
+pairwise_audit.tsv	context_id	string	context identifier
+pairwise_audit.tsv	specification_a	string	first compared score view
+pairwise_audit.tsv	specification_b	string	second compared score view
+pairwise_audit.tsv	candidate_a_n	integer	finite-score candidates in the first cell
+pairwise_audit.tsv	candidate_b_n	integer	finite-score candidates in the second cell
+pairwise_audit.tsv	candidate_shared_n	integer	candidates scored in both cells
+pairwise_audit.tsv	candidate_union_n	integer	candidates scored in either cell
+pairwise_audit.tsv	intersection_expected_chance	float	expected intersection under independent uniform capacity-B sampling from each scored universe
+pairwise_audit.tsv	intersection_deterministic	integer	intersection under deterministic candidate-ID boundary allocation
+pairwise_audit.tsv	intersection_expected_uniform_tie	float	expected intersection under independent uniform allocation within each boundary tie block
+pairwise_audit.tsv	intersection_minimum	integer	sharp minimum intersection over admissible boundary allocations
+pairwise_audit.tsv	intersection_maximum	integer	sharp maximum intersection over admissible boundary allocations
+pairwise_audit.tsv	substitution_deterministic	float	one minus deterministic intersection divided by budget
+pairwise_audit.tsv	substitution_expected_uniform_tie	float	legacy field name: one minus the independent-product expected intersection under independent uniform within-cell tie allocation divided by budget
+pairwise_audit.tsv	substitution_lower_bound	float	sharp minimum substitution over admissible boundary allocations
+pairwise_audit.tsv	substitution_upper_bound	float	sharp maximum substitution over admissible boundary allocations
+pairwise_audit.tsv	chance_adjusted_stability_deterministic	float	deterministic overlap calibrated to candidate-universe chance expectation
+target_membership.tsv	context_id	string	context identifier
+target_membership.tsv	specification_id	string	score-view identifier
+target_membership.tsv	candidate_id	string	candidate identifier
+target_membership.tsv	score	float	input score
+target_membership.tsv	deterministic_selected	integer	one if selected by the deterministic boundary allocation
+target_membership.tsv	necessary_selected	integer	one if selected in every legal capacity-B realization
+target_membership.tsv	possible_selected	integer	one if selected in at least one legal capacity-B realization
+target_membership.tsv	uniform_tie_selection_probability	float	marginal inclusion probability under uniform allocation within the boundary set
+audit_receipt.json	gate	string	PASS only when all deterministic and expected estimates lie inside their sharp pairwise bounds
+audit_receipt.json	input_sha256	string	SHA-256 of the exact input TSV
+audit_receipt.json	budget	integer	fixed list capacity
+audit_receipt.json	tie_tolerance	float	absolute score tolerance used to define boundary membership
+audit_receipt.json	engine_version	string	semantic version of the standalone audit engine
+audit_receipt.json	target_membership_emitted	boolean	whether the optional large target-level table was written
+audit_receipt.json	contexts	integer	number of context identifiers
+audit_receipt.json	cells	integer	number of context-specification cells
+audit_receipt.json	pairwise_comparisons	integer	number of within-context unordered comparisons
+audit_receipt.json	bounds_valid	boolean	true only if every exact interval contains deterministic and expected estimates
+audit_receipt.json	completed_utc	string	UTC completion timestamp

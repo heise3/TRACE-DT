@@ -1,0 +1,5 @@
+state	n	row_singleton	only_europepmc	both	median_rows	median_sources
+necessary	1080	253	372	24	8.0	1.0
+outside	106252	45058	90264	37642	2.0	1.0
+possible_unchosen	95	95	0	0	1.0	1.0
+tie_chosen	70	70	0	0	1.0	1.0

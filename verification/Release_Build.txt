@@ -1,0 +1,10 @@
+WARNING: The directory '/Users/feishuduobang/Library/Caches/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+Processing ./outputs/TRACE_DT_GITHUB_RELEASE
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: trace-dt
+  Building wheel for trace-dt (pyproject.toml): started
+  Building wheel for trace-dt (pyproject.toml): finished with status 'done'
+  Created wheel for trace-dt: filename=trace_dt-1.2.1.post1-py3-none-any.whl size=11148 sha256=7637d59b2c50bde4f4c1cf93de6dce8ed1a7541872f497e912cde8d4a8fdb5ac
+  Stored in directory: /private/var/folders/lx/654lhjlj3w7ffx684104lq7w0000gn/T/pip-ephem-wheel-cache-5_lsqchi/wheels/31/bf/28/61053874a6eb370d30e9a36b99b6c9dfb468bcbb9d0752561d
+Successfully built trace-dt

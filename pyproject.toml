@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trace-dt"
+version = "1.2.1.post1"
+description = "Auditing membership and exact substitution bounds in fixed-capacity ranked lists"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+authors = [{name="TRACE-DT authors"}]
+dependencies = []
+
+[project.scripts]
+trace-dt = "trace_rank_audit:main"
+
+[tool.setuptools]
+py-modules = ["trace_rank_audit"]

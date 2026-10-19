@@ -1,0 +1,1162 @@
+context_id	context_name	target_id	score	state	retained_positive_rows	datasource_count	only_europepmc
+CCTX001	urinary bladder cancer	ENSG00000005339	0.5408176452726334	necessary	24	2	False
+CCTX001	urinary bladder cancer	ENSG00000012048	0.5436427758744243	necessary	60	3	False
+CCTX001	urinary bladder cancer	ENSG00000055609	0.5114099816255082	necessary	37	2	False
+CCTX001	urinary bladder cancer	ENSG00000065361	0.6049149937076117	necessary	61	3	False
+CCTX001	urinary bladder cancer	ENSG00000067560	0.466695009206364	necessary	37	2	False
+CCTX001	urinary bladder cancer	ENSG00000068078	0.7889540431397528	necessary	798	6	False
+CCTX001	urinary bladder cancer	ENSG00000076641	0.46607063813384647	necessary	8	2	False
+CCTX001	urinary bladder cancer	ENSG00000083857	0.4574470301212052	necessary	14	2	False
+CCTX001	urinary bladder cancer	ENSG00000100393	0.5371793627778898	necessary	49	2	False
+CCTX001	urinary bladder cancer	ENSG00000100479	0.3986835115960669	necessary	41	2	False
+CCTX001	urinary bladder cancer	ENSG00000101972	0.5415103865709886	necessary	69	2	False
+CCTX001	urinary bladder cancer	ENSG00000104884	0.6640335701425849	necessary	128	3	False
+CCTX001	urinary bladder cancer	ENSG00000105173	0.4238448099291748	necessary	108	2	False
+CCTX001	urinary bladder cancer	ENSG00000109670	0.4783006744525793	necessary	17	2	False
+CCTX001	urinary bladder cancer	ENSG00000116044	0.4585678598568051	necessary	74	2	False
+CCTX001	urinary bladder cancer	ENSG00000117713	0.7063401427234489	necessary	115	3	False
+CCTX001	urinary bladder cancer	ENSG00000118058	0.4080039199307836	necessary	19	2	False
+CCTX001	urinary bladder cancer	ENSG00000120149	0.4111635213986413	necessary	8	2	False
+CCTX001	urinary bladder cancer	ENSG00000121879	0.641369677733218	necessary	216	3	False
+CCTX001	urinary bladder cancer	ENSG00000124762	0.597786508450509	necessary	114	3	False
+CCTX001	urinary bladder cancer	ENSG00000124766	0.42635714021132914	necessary	72	2	False
+CCTX001	urinary bladder cancer	ENSG00000126217	0.4490732469355354	necessary	5	1	False
+CCTX001	urinary bladder cancer	ENSG00000130592	0.47698248622980155	necessary	9	2	False
+CCTX001	urinary bladder cancer	ENSG00000133703	0.7025076078093122	necessary	166	6	False
+CCTX001	urinary bladder cancer	ENSG00000136997	0.4975888736664205	necessary	386	2	False
+CCTX001	urinary bladder cancer	ENSG00000139618	0.5669713875156495	necessary	46	3	False
+CCTX001	urinary bladder cancer	ENSG00000139687	0.7474919951585387	necessary	422	5	False
+CCTX001	urinary bladder cancer	ENSG00000141469	0.48620754303746333	necessary	41	2	False
+CCTX001	urinary bladder cancer	ENSG00000141510	0.7050070655385602	necessary	1546	3	False
+CCTX001	urinary bladder cancer	ENSG00000141736	0.6634829768723947	necessary	521	4	False
+CCTX001	urinary bladder cancer	ENSG00000143970	0.4013255166743251	necessary	2	1	False
+CCTX001	urinary bladder cancer	ENSG00000146648	0.5623608252204184	necessary	731	3	False
+CCTX001	urinary bladder cancer	ENSG00000147050	0.7044280784412512	necessary	151	3	False
+CCTX001	urinary bladder cancer	ENSG00000147889	0.5552441245424228	necessary	187	3	False
+CCTX001	urinary bladder cancer	ENSG00000149311	0.6292491475960399	necessary	110	3	False
+CCTX001	urinary bladder cancer	ENSG00000163435	0.5036865600161575	necessary	32	2	False
+CCTX001	urinary bladder cancer	ENSG00000164362	0.5887657434060289	necessary	252	3	False
+CCTX001	urinary bladder cancer	ENSG00000165699	0.6395398432292725	necessary	84	3	False
+CCTX001	urinary bladder cancer	ENSG00000166323	0.5161073792015809	necessary	10	1	False
+CCTX001	urinary bladder cancer	ENSG00000167325	0.4124985862278464	necessary	44	2	False
+CCTX001	urinary bladder cancer	ENSG00000167548	0.5535103835411981	necessary	39	2	False
+CCTX001	urinary bladder cancer	ENSG00000168036	0.42650194645714057	necessary	46	2	False
+CCTX001	urinary bladder cancer	ENSG00000171848	0.4024782237334661	necessary	63	2	False
+CCTX001	urinary bladder cancer	ENSG00000171862	0.5461176641853859	necessary	391	3	False
+CCTX001	urinary bladder cancer	ENSG00000174775	0.722755881815485	necessary	191	5	False
+CCTX001	urinary bladder cancer	ENSG00000177084	0.42388803083369475	necessary	40	3	False
+CCTX001	urinary bladder cancer	ENSG00000186350	0.50762268499262	necessary	33	2	False
+CCTX001	urinary bladder cancer	ENSG00000196367	0.43864769926661556	necessary	4	1	False
+CCTX001	urinary bladder cancer	ENSG00000196712	0.606665368710363	necessary	25	3	False
+CCTX001	urinary bladder cancer	ENSG00000198056	0.4040109450363036	necessary	37	2	False
+CCTX002	Ewing sarcoma	ENSG00000006468	0.37392089494978276	necessary	72	2	False
+CCTX002	Ewing sarcoma	ENSG00000037280	0.2220508970961926	necessary	12	2	False
+CCTX002	Ewing sarcoma	ENSG00000077097	0.38552889111329597	necessary	22	1	False
+CCTX002	Ewing sarcoma	ENSG00000077782	0.22799107021932039	necessary	19	2	False
+CCTX002	Ewing sarcoma	ENSG00000088970	0.27983711488916113	necessary	1	1	False
+CCTX002	Ewing sarcoma	ENSG00000097007	0.22295200639284096	necessary	20	2	False
+CCTX002	Ewing sarcoma	ENSG00000101162	0.3979787832466915	necessary	45	1	False
+CCTX002	Ewing sarcoma	ENSG00000101972	0.523819699532454	necessary	100	2	False
+CCTX002	Ewing sarcoma	ENSG00000102755	0.22147443229009453	necessary	13	2	False
+CCTX002	Ewing sarcoma	ENSG00000104833	0.3979787832466915	necessary	45	1	False
+CCTX002	Ewing sarcoma	ENSG00000106462	0.26299253095197617	necessary	61	3	False
+CCTX002	Ewing sarcoma	ENSG00000113721	0.23161710173221392	necessary	26	2	False
+CCTX002	Ewing sarcoma	ENSG00000119508	0.37288803186995817	necessary	10	2	False
+CCTX002	Ewing sarcoma	ENSG00000119535	0.29084727711218783	necessary	9	2	False
+CCTX002	Ewing sarcoma	ENSG00000120156	0.21708641155779246	necessary	9	2	False
+CCTX002	Ewing sarcoma	ENSG00000122877	0.3135506289906009	necessary	14	2	False
+CCTX002	Ewing sarcoma	ENSG00000123416	0.3979787832466915	necessary	45	1	False
+CCTX002	Ewing sarcoma	ENSG00000124782	0.23021233762830376	necessary	2	2	False
+CCTX002	Ewing sarcoma	ENSG00000125820	0.22211277353560585	necessary	129	2	False
+CCTX002	Ewing sarcoma	ENSG00000127824	0.3979787832466915	necessary	45	1	False
+CCTX002	Ewing sarcoma	ENSG00000128052	0.23064757188816484	necessary	40	2	False
+CCTX002	Ewing sarcoma	ENSG00000131747	0.41045409607824146	necessary	47	2	False
+CCTX002	Ewing sarcoma	ENSG00000134853	0.21624586066075882	necessary	18	2	False
+CCTX002	Ewing sarcoma	ENSG00000137267	0.3979787832466915	necessary	45	1	False
+CCTX002	Ewing sarcoma	ENSG00000137285	0.3979787832466915	necessary	45	1	False
+CCTX002	Ewing sarcoma	ENSG00000140443	0.3242997278485215	necessary	258	2	False
+CCTX002	Ewing sarcoma	ENSG00000141510	0.5138678477400804	necessary	217	2	False
+CCTX002	Ewing sarcoma	ENSG00000142319	0.2775186720039959	necessary	2	1	False
+CCTX002	Ewing sarcoma	ENSG00000142627	0.22996282089731515	necessary	22	2	False
+CCTX002	Ewing sarcoma	ENSG00000151702	0.42157971917206033	necessary	1500	3	False
+CCTX002	Ewing sarcoma	ENSG00000152086	0.3979787832466915	necessary	45	1	False
+CCTX002	Ewing sarcoma	ENSG00000157404	0.23163991729596695	necessary	75	2	False
+CCTX002	Ewing sarcoma	ENSG00000157554	0.38380030085538447	necessary	314	2	False
+CCTX002	Ewing sarcoma	ENSG00000157764	0.2149234018268888	necessary	17	2	False
+CCTX002	Ewing sarcoma	ENSG00000160752	0.25901742720372944	necessary	1	1	False
+CCTX002	Ewing sarcoma	ENSG00000163930	0.26883336541720415	necessary	4	2	False
+CCTX002	Ewing sarcoma	ENSG00000165731	0.2328139825657754	necessary	14	2	False
+CCTX002	Ewing sarcoma	ENSG00000167552	0.3998289077267182	necessary	46	2	False
+CCTX002	Ewing sarcoma	ENSG00000167553	0.3979787832466915	necessary	45	1	False
+CCTX002	Ewing sarcoma	ENSG00000175262	0.28707102280723784	necessary	1	1	False
+CCTX002	Ewing sarcoma	ENSG00000176014	0.3979787832466915	necessary	45	1	False
+CCTX002	Ewing sarcoma	ENSG00000182944	0.41288388758780303	necessary	2342	4	False
+CCTX002	Ewing sarcoma	ENSG00000188229	0.3979787832466915	necessary	45	1	False
+CCTX002	Ewing sarcoma	ENSG00000196230	0.3989038454867049	necessary	46	2	False
+CCTX002	Ewing sarcoma	ENSG00000196712	0.4185388041870838	necessary	13	3	False
+CCTX002	Ewing sarcoma	ENSG00000198033	0.3979787832466915	necessary	45	1	False
+CCTX002	Ewing sarcoma	ENSG00000198400	0.22100982646537656	necessary	43	2	False
+CCTX002	Ewing sarcoma	ENSG00000198900	0.38050987804958747	necessary	44	2	False
+CCTX002	Ewing sarcoma	ENSG00000258947	0.4001064263987221	necessary	47	2	False
+CCTX002	Ewing sarcoma	ENSG00000261456	0.3979787832466915	necessary	45	1	False
+CCTX003	osteosarcoma	ENSG00000014138	0.32868617597948574	necessary	15	1	False
+CCTX003	osteosarcoma	ENSG00000048392	0.3297037444435004	necessary	17	2	False
+CCTX003	osteosarcoma	ENSG00000062822	0.3295187319954977	necessary	17	2	False
+CCTX003	osteosarcoma	ENSG00000077097	0.38880868590626383	necessary	21	2	False
+CCTX003	osteosarcoma	ENSG00000077514	0.3305363004595124	necessary	16	2	False
+CCTX003	osteosarcoma	ENSG00000085224	0.38706439540586507	necessary	81	3	False
+CCTX003	osteosarcoma	ENSG00000100479	0.3305363004595124	necessary	16	2	False
+CCTX003	osteosarcoma	ENSG00000101162	0.3351966402269895	necessary	24	3	False
+CCTX003	osteosarcoma	ENSG00000101868	0.3290562008754911	necessary	16	2	False
+CCTX003	osteosarcoma	ENSG00000104833	0.3307035197830367	necessary	22	1	False
+CCTX003	osteosarcoma	ENSG00000105976	0.3554113636490475	necessary	224	4	False
+CCTX003	osteosarcoma	ENSG00000106628	0.32868617597948574	necessary	15	1	False
+CCTX003	osteosarcoma	ENSG00000123416	0.3314153037843803	necessary	26	2	False
+CCTX003	osteosarcoma	ENSG00000127824	0.3339973352805226	necessary	23	2	False
+CCTX003	osteosarcoma	ENSG00000128052	0.35283358000720905	necessary	154	3	False
+CCTX003	osteosarcoma	ENSG00000131747	0.420060883821164	necessary	68	2	False
+CCTX003	osteosarcoma	ENSG00000137267	0.3307035197830367	necessary	22	1	False
+CCTX003	osteosarcoma	ENSG00000137285	0.3307035197830367	necessary	22	1	False
+CCTX003	osteosarcoma	ENSG00000138413	0.4272263444804355	necessary	41	3	False
+CCTX003	osteosarcoma	ENSG00000139687	0.5847415720533039	necessary	625	5	False
+CCTX003	osteosarcoma	ENSG00000141510	0.6900046430311745	necessary	1926	6	False
+CCTX003	osteosarcoma	ENSG00000146143	0.3305363004595124	necessary	16	2	False
+CCTX003	osteosarcoma	ENSG00000147889	0.44905463551640523	necessary	195	3	False
+CCTX003	osteosarcoma	ENSG00000148229	0.32868617597948574	necessary	15	1	False
+CCTX003	osteosarcoma	ENSG00000151702	0.3919933092479978	necessary	28	2	False
+CCTX003	osteosarcoma	ENSG00000152086	0.3307035197830367	necessary	22	1	False
+CCTX003	osteosarcoma	ENSG00000160957	0.5354352659498276	necessary	83	3	False
+CCTX003	osteosarcoma	ENSG00000161011	0.5030946164382971	necessary	39	2	False
+CCTX003	osteosarcoma	ENSG00000165392	0.32657939246002443	necessary	23	3	False
+CCTX003	osteosarcoma	ENSG00000167207	0.40409242878942403	necessary	13	3	False
+CCTX003	osteosarcoma	ENSG00000167325	0.3309198415426912	necessary	20	2	False
+CCTX003	osteosarcoma	ENSG00000167552	0.3307035197830367	necessary	22	1	False
+CCTX003	osteosarcoma	ENSG00000167553	0.3327335174763993	necessary	25	2	False
+CCTX003	osteosarcoma	ENSG00000168702	0.34156232265984116	necessary	7	3	False
+CCTX003	osteosarcoma	ENSG00000171848	0.34563254533132975	necessary	21	2	False
+CCTX003	osteosarcoma	ENSG00000175482	0.3290562008754911	necessary	16	2	False
+CCTX003	osteosarcoma	ENSG00000176014	0.3307035197830367	necessary	22	1	False
+CCTX003	osteosarcoma	ENSG00000177084	0.39823029948982036	necessary	17	3	False
+CCTX003	osteosarcoma	ENSG00000182054	0.39161862905493694	necessary	18	2	False
+CCTX003	osteosarcoma	ENSG00000183765	0.32702415952636027	necessary	32	3	False
+CCTX003	osteosarcoma	ENSG00000185920	0.359842393195099	necessary	24	3	False
+CCTX003	osteosarcoma	ENSG00000188229	0.3307035197830367	necessary	22	1	False
+CCTX003	osteosarcoma	ENSG00000196230	0.3367514739235504	necessary	28	2	False
+CCTX003	osteosarcoma	ENSG00000196712	0.3393160666484182	necessary	26	3	False
+CCTX003	osteosarcoma	ENSG00000197299	0.3243918476220271	necessary	15	3	False
+CCTX003	osteosarcoma	ENSG00000198033	0.3307035197830367	necessary	22	1	False
+CCTX003	osteosarcoma	ENSG00000198056	0.33333640932121583	necessary	22	2	False
+CCTX003	osteosarcoma	ENSG00000228716	0.40920044456462656	necessary	72	2	False
+CCTX003	osteosarcoma	ENSG00000258947	0.3328260237004006	necessary	25	2	False
+CCTX003	osteosarcoma	ENSG00000261456	0.3307035197830367	necessary	22	1	False
+CCTX004	colorectal adenocarcinoma	ENSG00000037280	0.4747282066398274	necessary	20	4	False
+CCTX004	colorectal adenocarcinoma	ENSG00000049618	0.41701172707410356	necessary	3	2	False
+CCTX004	colorectal adenocarcinoma	ENSG00000055609	0.42772941300625933	necessary	5	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000065361	0.5270281673306242	necessary	15	5	False
+CCTX004	colorectal adenocarcinoma	ENSG00000076242	0.46574326672126554	necessary	46	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000085185	0.42819927747855463	necessary	2	2	False
+CCTX004	colorectal adenocarcinoma	ENSG00000087460	0.4646185172409892	necessary	7	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000095002	0.5572767016705429	necessary	30	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000100393	0.4204425370760354	necessary	4	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000101665	0.41690044993050995	necessary	2	1	False
+CCTX004	colorectal adenocarcinoma	ENSG00000108375	0.46212168753344646	necessary	19	5	False
+CCTX004	colorectal adenocarcinoma	ENSG00000109670	0.6549548326260571	necessary	12	4	False
+CCTX004	colorectal adenocarcinoma	ENSG00000112715	0.5404956164271759	necessary	72	2	False
+CCTX004	colorectal adenocarcinoma	ENSG00000113721	0.4616958687475782	necessary	13	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000116062	0.46472764512166603	necessary	25	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000117713	0.594898207609638	necessary	16	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000121879	0.6581329987610945	necessary	40	4	False
+CCTX004	colorectal adenocarcinoma	ENSG00000121989	0.46343477330839566	necessary	4	2	False
+CCTX004	colorectal adenocarcinoma	ENSG00000122512	0.4635963928558268	necessary	15	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000125398	0.5064364562943208	necessary	16	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000128052	0.47714236701903817	necessary	24	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000129204	0.46253112000665986	necessary	2	2	False
+CCTX004	colorectal adenocarcinoma	ENSG00000132781	0.5550373440079918	necessary	3	2	False
+CCTX004	colorectal adenocarcinoma	ENSG00000133703	0.6888909962897819	necessary	287	5	False
+CCTX004	colorectal adenocarcinoma	ENSG00000134982	0.7297879956997354	necessary	106	5	False
+CCTX004	colorectal adenocarcinoma	ENSG00000135111	0.43104475540096837	necessary	4	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000135503	0.4194163086394231	necessary	2	2	False
+CCTX004	colorectal adenocarcinoma	ENSG00000141510	0.6536343279144432	necessary	294	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000141646	0.6174255752053884	necessary	33	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000141736	0.49304238078878043	necessary	59	5	False
+CCTX004	colorectal adenocarcinoma	ENSG00000142208	0.6184946046702605	necessary	44	4	False
+CCTX004	colorectal adenocarcinoma	ENSG00000145675	0.45797095795576703	necessary	4	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000146648	0.676261842862897	necessary	154	6	False
+CCTX004	colorectal adenocarcinoma	ENSG00000148737	0.6113231165124674	necessary	8	4	False
+CCTX004	colorectal adenocarcinoma	ENSG00000149311	0.5865614364438199	necessary	12	4	False
+CCTX004	colorectal adenocarcinoma	ENSG00000157404	0.4330046695896441	necessary	18	4	False
+CCTX004	colorectal adenocarcinoma	ENSG00000157764	0.6254003896252546	necessary	142	5	False
+CCTX004	colorectal adenocarcinoma	ENSG00000164362	0.43762829609246046	necessary	8	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000166949	0.44480491748841644	necessary	7	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000168036	0.42796762668712546	necessary	43	4	False
+CCTX004	colorectal adenocarcinoma	ENSG00000169564	0.5407762468132248	necessary	4	2	False
+CCTX004	colorectal adenocarcinoma	ENSG00000171862	0.4577580329900229	necessary	37	4	False
+CCTX004	colorectal adenocarcinoma	ENSG00000175387	0.5533983707090184	necessary	10	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000177084	0.4249633145927855	necessary	4	4	False
+CCTX004	colorectal adenocarcinoma	ENSG00000182872	0.5078746608523869	necessary	3	2	False
+CCTX004	colorectal adenocarcinoma	ENSG00000184675	0.618120296706856	necessary	6	2	False
+CCTX004	colorectal adenocarcinoma	ENSG00000186174	0.5686577303832759	necessary	4	2	False
+CCTX004	colorectal adenocarcinoma	ENSG00000198400	0.4398272557000105	necessary	20	4	False
+CCTX004	colorectal adenocarcinoma	ENSG00000198793	0.4292805500982712	necessary	35	3	False
+CCTX004	colorectal adenocarcinoma	ENSG00000213281	0.5861041178558468	necessary	26	4	False
+CCTX005	invasive breast carcinoma	ENSG00000012048	0.2856977596373336	necessary	247	2	False
+CCTX005	invasive breast carcinoma	ENSG00000039068	0.3767366471974378	necessary	140	2	False
+CCTX005	invasive breast carcinoma	ENSG00000051382	0.2787854933493475	necessary	5	2	False
+CCTX005	invasive breast carcinoma	ENSG00000055609	0.2797028467373607	necessary	4	2	False
+CCTX005	invasive breast carcinoma	ENSG00000065559	0.3720985771933577	necessary	5	2	False
+CCTX005	invasive breast carcinoma	ENSG00000067955	0.27876750602801387	necessary	3	2	False
+CCTX005	invasive breast carcinoma	ENSG00000082898	0.2798313276040292	necessary	3	2	False
+CCTX005	invasive breast carcinoma	ENSG00000095015	0.37338852509470966	necessary	5	2	False
+CCTX005	invasive breast carcinoma	ENSG00000101162	0.3366198706715135	necessary	4	1	False
+CCTX005	invasive breast carcinoma	ENSG00000102974	0.2832991458195482	necessary	11	2	False
+CCTX005	invasive breast carcinoma	ENSG00000104833	0.3366198706715135	necessary	4	1	False
+CCTX005	invasive breast carcinoma	ENSG00000105976	0.28121294476366493	necessary	27	2	False
+CCTX005	invasive breast carcinoma	ENSG00000107485	0.3771946845699325	necessary	52	2	False
+CCTX005	invasive breast carcinoma	ENSG00000111276	0.37434554865464476	necessary	9	2	False
+CCTX005	invasive breast carcinoma	ENSG00000111642	0.27918378403601984	necessary	2	2	False
+CCTX005	invasive breast carcinoma	ENSG00000113522	0.27946130270802383	necessary	3	2	False
+CCTX005	invasive breast carcinoma	ENSG00000115524	0.2796000620440259	necessary	3	2	False
+CCTX005	invasive breast carcinoma	ENSG00000117713	0.28345463750141603	necessary	9	2	False
+CCTX005	invasive breast carcinoma	ENSG00000121879	0.3904700064361507	necessary	82	2	False
+CCTX005	invasive breast carcinoma	ENSG00000123416	0.3384699951515402	necessary	5	2	False
+CCTX005	invasive breast carcinoma	ENSG00000127824	0.3366198706715135	necessary	4	1	False
+CCTX005	invasive breast carcinoma	ENSG00000131747	0.28948603514522536	necessary	27	2	False
+CCTX005	invasive breast carcinoma	ENSG00000133703	0.280071089740675	necessary	11	2	False
+CCTX005	invasive breast carcinoma	ENSG00000134853	0.28169404320898933	necessary	6	2	False
+CCTX005	invasive breast carcinoma	ENSG00000134982	0.28584964519995826	necessary	10	2	False
+CCTX005	invasive breast carcinoma	ENSG00000135111	0.2823238564173984	necessary	4	2	False
+CCTX005	invasive breast carcinoma	ENSG00000137267	0.3366198706715135	necessary	4	1	False
+CCTX005	invasive breast carcinoma	ENSG00000137285	0.3366198706715135	necessary	4	1	False
+CCTX005	invasive breast carcinoma	ENSG00000139687	0.2836602563831612	necessary	25	2	False
+CCTX005	invasive breast carcinoma	ENSG00000141510	0.38842813843309343	necessary	270	2	False
+CCTX005	invasive breast carcinoma	ENSG00000141736	0.35835996612073406	necessary	2232	3	False
+CCTX005	invasive breast carcinoma	ENSG00000147889	0.2859016288520047	necessary	26	2	False
+CCTX005	invasive breast carcinoma	ENSG00000148400	0.2798610334376535	necessary	13	2	False
+CCTX005	invasive breast carcinoma	ENSG00000152086	0.3366198706715135	necessary	4	1	False
+CCTX005	invasive breast carcinoma	ENSG00000157404	0.2831667219029541	necessary	22	2	False
+CCTX005	invasive breast carcinoma	ENSG00000157764	0.2790358994120142	necessary	9	2	False
+CCTX005	invasive breast carcinoma	ENSG00000159216	0.2822306275540735	necessary	8	2	False
+CCTX005	invasive breast carcinoma	ENSG00000167258	0.2796411759213598	necessary	4	2	False
+CCTX005	invasive breast carcinoma	ENSG00000167552	0.3366198706715135	necessary	4	1	False
+CCTX005	invasive breast carcinoma	ENSG00000167553	0.3387012607115435	necessary	6	2	False
+CCTX005	invasive breast carcinoma	ENSG00000171862	0.28336007563224874	necessary	45	2	False
+CCTX005	invasive breast carcinoma	ENSG00000175054	0.2786749998040125	necessary	3	2	False
+CCTX005	invasive breast carcinoma	ENSG00000176014	0.3366198706715135	necessary	4	1	False
+CCTX005	invasive breast carcinoma	ENSG00000177606	0.28144059529208143	necessary	18	2	False
+CCTX005	invasive breast carcinoma	ENSG00000188229	0.3366198706715135	necessary	4	1	False
+CCTX005	invasive breast carcinoma	ENSG00000196230	0.3366198706715135	necessary	4	1	False
+CCTX005	invasive breast carcinoma	ENSG00000198033	0.3366198706715135	necessary	4	1	False
+CCTX005	invasive breast carcinoma	ENSG00000198400	0.2800881349356815	necessary	13	2	False
+CCTX005	invasive breast carcinoma	ENSG00000258947	0.3369898955675189	necessary	5	2	False
+CCTX005	invasive breast carcinoma	ENSG00000261456	0.3366198706715135	necessary	4	1	False
+CCTX006	brain glioma	ENSG00000019991	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000041982	0.09250622400133196	tie_chosen	1	1	False
+CCTX006	brain glioma	ENSG00000066032	0.09250622400133196	tie_chosen	1	1	False
+CCTX006	brain glioma	ENSG00000077782	0.2775186720039959	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000078403	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000082805	0.09250622400133196	tie_chosen	1	1	False
+CCTX006	brain glioma	ENSG00000085224	0.2806638836200412	necessary	3	2	False
+CCTX006	brain glioma	ENSG00000095015	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000101972	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000103197	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000105976	0.2775186720039959	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000109670	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000113360	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000113522	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000115170	0.37002489600532784	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000117400	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000121879	0.2784437342440092	necessary	2	2	False
+CCTX006	brain glioma	ENSG00000125354	0.09250622400133196	tie_chosen	1	1	False
+CCTX006	brain glioma	ENSG00000133703	0.18686257248269056	necessary	2	2	False
+CCTX006	brain glioma	ENSG00000134371	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000134853	0.2775186720039959	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000136167	0.09250622400133196	tie_chosen	1	1	False
+CCTX006	brain glioma	ENSG00000136826	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000136997	0.27989299842003007	necessary	4	2	False
+CCTX006	brain glioma	ENSG00000138336	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000138413	0.286405690815678	necessary	29	2	False
+CCTX006	brain glioma	ENSG00000139083	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000140836	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000141510	0.28169586715444667	necessary	23	2	False
+CCTX006	brain glioma	ENSG00000142611	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000144218	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000149311	0.2786749998040125	necessary	3	2	False
+CCTX006	brain glioma	ENSG00000153707	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000157554	0.18593751024267727	necessary	2	2	False
+CCTX006	brain glioma	ENSG00000162367	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000163041	0.37002489600532784	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000165323	0.09250622400133196	possible_unchosen	1	1	False
+CCTX006	brain glioma	ENSG00000165409	0.09250622400133196	possible_unchosen	1	1	False
+CCTX006	brain glioma	ENSG00000168702	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000168769	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000169083	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000170836	0.18593751024267727	necessary	2	2	False
+CCTX006	brain glioma	ENSG00000171094	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000174469	0.09250622400133196	possible_unchosen	1	1	False
+CCTX006	brain glioma	ENSG00000178568	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000178573	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000179295	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000179399	0.09250622400133196	possible_unchosen	1	1	False
+CCTX006	brain glioma	ENSG00000181143	0.09250622400133196	possible_unchosen	1	1	False
+CCTX006	brain glioma	ENSG00000182158	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000182197	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000183337	0.2775186720039959	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000185008	0.09250622400133196	possible_unchosen	1	1	False
+CCTX006	brain glioma	ENSG00000189283	0.18501244800266392	necessary	1	1	False
+CCTX006	brain glioma	ENSG00000196712	0.1872639435636928	necessary	8	2	False
+CCTX006	brain glioma	ENSG00000286522	0.37002489600532784	necessary	1	1	False
+CCTX007	cervical cancer	ENSG00000014138	0.4061079940158966	necessary	18	2	False
+CCTX007	cervical cancer	ENSG00000037280	0.34232005012762945	necessary	64	2	False
+CCTX007	cervical cancer	ENSG00000048392	0.41095255556792964	necessary	22	2	False
+CCTX007	cervical cancer	ENSG00000049656	0.36797455376333543	necessary	17	2	False
+CCTX007	cervical cancer	ENSG00000062822	0.40412106310904133	necessary	21	2	False
+CCTX007	cervical cancer	ENSG00000068078	0.6927596847536726	necessary	89	5	False
+CCTX007	cervical cancer	ENSG00000073756	0.35260971722652884	necessary	177	2	False
+CCTX007	cervical cancer	ENSG00000077514	0.4022689857198413	necessary	17	2	False
+CCTX007	cervical cancer	ENSG00000095303	0.3288440275031875	necessary	21	2	False
+CCTX007	cervical cancer	ENSG00000100479	0.40290676159551364	necessary	23	2	False
+CCTX007	cervical cancer	ENSG00000101162	0.5833490397246065	necessary	154	1	False
+CCTX007	cervical cancer	ENSG00000101868	0.4067067148545719	necessary	20	2	False
+CCTX007	cervical cancer	ENSG00000102755	0.3404620742706805	necessary	43	2	False
+CCTX007	cervical cancer	ENSG00000104833	0.5833490397246065	necessary	154	1	False
+CCTX007	cervical cancer	ENSG00000106628	0.40189896082383597	necessary	16	1	False
+CCTX007	cervical cancer	ENSG00000112715	0.612922878811102	necessary	672	2	False
+CCTX007	cervical cancer	ENSG00000117525	0.5569541952671458	necessary	28	2	False
+CCTX007	cervical cancer	ENSG00000120217	0.4006678160755136	necessary	857	2	False
+CCTX007	cervical cancer	ENSG00000123416	0.5847314938499597	necessary	157	2	False
+CCTX007	cervical cancer	ENSG00000125618	0.31774106776320105	necessary	31	2	False
+CCTX007	cervical cancer	ENSG00000127824	0.5833490397246065	necessary	154	1	False
+CCTX007	cervical cancer	ENSG00000128052	0.34314306924289767	necessary	112	2	False
+CCTX007	cervical cancer	ENSG00000132639	0.46253112000665986	necessary	2	1	False
+CCTX007	cervical cancer	ENSG00000137267	0.5833490397246065	necessary	154	1	False
+CCTX007	cervical cancer	ENSG00000137285	0.5833490397246065	necessary	154	1	False
+CCTX007	cervical cancer	ENSG00000141510	0.3808337580114074	necessary	1671	3	False
+CCTX007	cervical cancer	ENSG00000146143	0.4078835995932555	necessary	20	2	False
+CCTX007	cervical cancer	ENSG00000146648	0.3778440799462624	necessary	592	2	False
+CCTX007	cervical cancer	ENSG00000148229	0.4036565790798613	necessary	18	2	False
+CCTX007	cervical cancer	ENSG00000152086	0.5833490397246065	necessary	154	1	False
+CCTX007	cervical cancer	ENSG00000157404	0.31680542601811756	necessary	47	2	False
+CCTX007	cervical cancer	ENSG00000159131	0.3458884803929803	necessary	9	2	False
+CCTX007	cervical cancer	ENSG00000163599	0.38958928892781364	necessary	205	2	False
+CCTX007	cervical cancer	ENSG00000167325	0.40694486894574605	necessary	32	2	False
+CCTX007	cervical cancer	ENSG00000167552	0.5862957740978223	necessary	159	2	False
+CCTX007	cervical cancer	ENSG00000167553	0.5842741019646198	necessary	155	2	False
+CCTX007	cervical cancer	ENSG00000171848	0.42827980417128947	necessary	71	2	False
+CCTX007	cervical cancer	ENSG00000175482	0.40189896082383597	necessary	16	1	False
+CCTX007	cervical cancer	ENSG00000176014	0.5833490397246065	necessary	154	1	False
+CCTX007	cervical cancer	ENSG00000176890	0.40937225939497024	necessary	44	2	False
+CCTX007	cervical cancer	ENSG00000177084	0.40300389627718525	necessary	19	2	False
+CCTX007	cervical cancer	ENSG00000188229	0.5833490397246065	necessary	154	1	False
+CCTX007	cervical cancer	ENSG00000188389	0.5517772484464974	necessary	414	2	False
+CCTX007	cervical cancer	ENSG00000196230	0.5833490397246065	necessary	154	1	False
+CCTX007	cervical cancer	ENSG00000198033	0.5833490397246065	necessary	154	1	False
+CCTX007	cervical cancer	ENSG00000198056	0.40236149194384263	necessary	18	2	False
+CCTX007	cervical cancer	ENSG00000198900	0.5684201208778568	necessary	42	2	False
+CCTX007	cervical cancer	ENSG00000228716	0.36486440174650925	necessary	15	2	False
+CCTX007	cervical cancer	ENSG00000258947	0.5871919024466619	necessary	158	2	False
+CCTX007	cervical cancer	ENSG00000261456	0.5833490397246065	necessary	154	1	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000005339	0.3774857372973282	necessary	40	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000037280	0.4074856588183156	necessary	43	3	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000061337	0.41877053681936305	necessary	5	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000064012	0.33814826908787454	necessary	58	3	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000073756	0.41145166259997723	necessary	170	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000079805	0.3194324682286686	necessary	5	3	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000083857	0.3951489420305067	necessary	79	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000095303	0.3845072255536714	necessary	40	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000100393	0.39202618814774354	necessary	61	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000101162	0.42065750481219694	necessary	241	1	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000102755	0.3201248467897927	necessary	28	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000104833	0.42065750481219694	necessary	241	1	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000113721	0.33898606115086	necessary	33	4	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000116044	0.39902627827424053	necessary	181	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000119535	0.34276639533293535	necessary	3	3	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000120217	0.4786470115276286	necessary	861	3	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000121879	0.31547465455980334	necessary	208	3	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000123416	0.4224305407722225	necessary	244	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000127824	0.42065750481219694	necessary	241	1	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000127870	0.4687009463775901	necessary	10	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000128052	0.4439374154411321	necessary	101	3	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000137267	0.42065750481219694	necessary	241	1	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000137285	0.42102752970820234	necessary	242	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000141510	0.39976265338377714	necessary	1086	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000141736	0.3584187000970516	necessary	223	4	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000141867	0.39616078796554716	necessary	23	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000146648	0.4541420878391478	necessary	669	4	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000147889	0.3980668592341656	necessary	267	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000148400	0.3987456146625133	necessary	168	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000152086	0.42065750481219694	necessary	241	1	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000157404	0.33793969101093024	necessary	34	3	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000159216	0.38167109691227785	necessary	28	3	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000160957	0.3899905681420026	necessary	11	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000163599	0.3249996336316139	necessary	101	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000167548	0.39081438614150765	necessary	60	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000167552	0.42065750481219694	necessary	241	1	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000167553	0.42065750481219694	necessary	241	1	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000176014	0.42065750481219694	necessary	241	1	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000176890	0.44037160597905795	necessary	110	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000181847	0.348671426006822	necessary	35	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000183765	0.35103616519982533	necessary	45	3	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000186153	0.42758297712117765	necessary	13	3	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000188229	0.42065750481219694	necessary	241	1	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000188389	0.6069362898372254	necessary	606	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000188641	0.3612785122948484	necessary	16	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000196230	0.4230755147228984	necessary	245	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000198033	0.42065750481219694	necessary	241	1	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000198900	0.44679624765133263	necessary	30	3	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000258947	0.42895479918164975	necessary	245	2	False
+CCTX008	esophageal squamous cell carcinoma	ENSG00000261456	0.42065750481219694	necessary	241	1	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000037280	0.4238171546285317	necessary	49	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000051382	0.3979382544580643	necessary	33	4	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000064012	0.6130835993526859	necessary	142	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000083857	0.6569567347286961	necessary	188	5	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000100030	0.45114042054903125	necessary	57	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000100393	0.5377134251227502	necessary	51	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000101162	0.5296478843970394	necessary	247	1	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000104833	0.5372333947651485	necessary	248	2	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000105928	0.3940371719735876	necessary	26	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000105976	0.45631651979507243	necessary	285	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000109670	0.4429143073466032	necessary	43	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000110092	0.3954901978227046	necessary	407	4	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000116044	0.5119350957311769	necessary	118	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000120217	0.5945344783250387	necessary	2149	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000120889	0.45715155907842414	necessary	22	4	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000121879	0.6256005510595614	necessary	647	5	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000123416	0.530665452861054	necessary	249	2	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000127616	0.5141114119050085	necessary	6	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000127824	0.5296478843970394	necessary	247	1	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000128052	0.4237196616461581	necessary	134	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000136238	0.4510104157751552	necessary	61	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000137267	0.530804212197056	necessary	249	2	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000137285	0.5296478843970394	necessary	247	1	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000137575	0.39400319991668287	necessary	9	2	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000141510	0.7780291753247156	necessary	1953	7	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000141736	0.4778235452593416	necessary	355	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000146648	0.7248928908784743	necessary	3430	6	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000147889	0.6403368012645086	necessary	773	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000148400	0.6467494650271939	necessary	367	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000152086	0.5296478843970394	necessary	247	1	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000153487	0.5897362351229739	necessary	12	4	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000163513	0.46978595769820525	necessary	32	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000163599	0.39661652843108314	necessary	434	2	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000165671	0.5179373369997767	necessary	96	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000167548	0.6292315965654881	necessary	46	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000167552	0.5296478843970394	necessary	247	1	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000167553	0.5296478843970394	necessary	247	1	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000171862	0.7033333947978911	necessary	299	8	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000174775	0.5503084058440784	necessary	199	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000176014	0.5317292744370693	necessary	249	2	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000176890	0.4269496113686334	necessary	138	2	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000178568	0.46290964334280593	necessary	70	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000188229	0.5296478843970394	necessary	247	1	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000188389	0.5875183614771263	necessary	1255	2	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000196230	0.5318320591304041	necessary	250	2	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000198033	0.5296478843970394	necessary	247	1	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000206503	0.40691789396342415	necessary	35	3	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000228716	0.3998176796246812	necessary	24	2	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000258947	0.5377454576773766	necessary	257	2	False
+CCTX009	head and neck squamous cell carcinoma	ENSG00000261456	0.5296478843970394	necessary	247	1	False
+CCTX010	renal cell carcinoma	ENSG00000037280	0.6109792830513321	necessary	422	2	False
+CCTX010	renal cell carcinoma	ENSG00000048052	0.3774083097597694	necessary	86	2	False
+CCTX010	renal cell carcinoma	ENSG00000068078	0.6521557959606129	necessary	68	3	False
+CCTX010	renal cell carcinoma	ENSG00000068323	0.46844418995326553	necessary	685	3	False
+CCTX010	renal cell carcinoma	ENSG00000077782	0.6264804220197746	necessary	80	3	False
+CCTX010	renal cell carcinoma	ENSG00000088832	0.5956986665281344	necessary	94	2	False
+CCTX010	renal cell carcinoma	ENSG00000094631	0.3895500747437481	necessary	23	2	False
+CCTX010	renal cell carcinoma	ENSG00000100385	0.5233974601158762	necessary	69	2	False
+CCTX010	renal cell carcinoma	ENSG00000100429	0.3780443859836347	necessary	18	2	False
+CCTX010	renal cell carcinoma	ENSG00000102755	0.6121246460912082	necessary	468	2	False
+CCTX010	renal cell carcinoma	ENSG00000105976	0.7290353001822389	necessary	3712	5	False
+CCTX010	renal cell carcinoma	ENSG00000112715	0.6194281917867395	necessary	1958	2	False
+CCTX010	renal cell carcinoma	ENSG00000113263	0.5779554023971212	necessary	55	2	False
+CCTX010	renal cell carcinoma	ENSG00000113721	0.6070245348159183	necessary	389	2	False
+CCTX010	renal cell carcinoma	ENSG00000116016	0.6510948643186714	necessary	489	3	False
+CCTX010	renal cell carcinoma	ENSG00000117713	0.4419764117810546	necessary	23	3	False
+CCTX010	renal cell carcinoma	ENSG00000120217	0.43450856420053263	necessary	1585	2	False
+CCTX010	renal cell carcinoma	ENSG00000121879	0.45659924813833636	necessary	98	4	False
+CCTX010	renal cell carcinoma	ENSG00000122025	0.6420182311965628	necessary	249	3	False
+CCTX010	renal cell carcinoma	ENSG00000126012	0.44152867337235796	necessary	48	3	False
+CCTX010	renal cell carcinoma	ENSG00000128052	0.6552906228932529	necessary	1021	3	False
+CCTX010	renal cell carcinoma	ENSG00000132155	0.5826236216265473	necessary	111	2	False
+CCTX010	renal cell carcinoma	ENSG00000134086	0.5411862389724617	necessary	1836	6	False
+CCTX010	renal cell carcinoma	ENSG00000134460	0.525111731404129	necessary	82	2	False
+CCTX010	renal cell carcinoma	ENSG00000134853	0.6044541940097763	necessary	215	2	False
+CCTX010	renal cell carcinoma	ENSG00000141510	0.4524132070137092	necessary	628	3	False
+CCTX010	renal cell carcinoma	ENSG00000142166	0.4109260356482318	necessary	55	2	False
+CCTX010	renal cell carcinoma	ENSG00000147168	0.5385358419922555	necessary	71	2	False
+CCTX010	renal cell carcinoma	ENSG00000154803	0.43960255637915574	necessary	124	4	False
+CCTX010	renal cell carcinoma	ENSG00000157404	0.6094922831807198	necessary	469	2	False
+CCTX010	renal cell carcinoma	ENSG00000157764	0.6274344693726934	necessary	137	3	False
+CCTX010	renal cell carcinoma	ENSG00000159110	0.4168185247936065	necessary	58	2	False
+CCTX010	renal cell carcinoma	ENSG00000163599	0.5726681925778435	necessary	621	2	False
+CCTX010	renal cell carcinoma	ENSG00000163930	0.4487871512050422	necessary	374	3	False
+CCTX010	renal cell carcinoma	ENSG00000163939	0.4998050097453046	necessary	258	4	False
+CCTX010	renal cell carcinoma	ENSG00000165731	0.6431185368467186	necessary	248	3	False
+CCTX010	renal cell carcinoma	ENSG00000171720	0.3860161828098572	necessary	23	2	False
+CCTX010	renal cell carcinoma	ENSG00000171862	0.4287462818324679	necessary	280	3	False
+CCTX010	renal cell carcinoma	ENSG00000176890	0.3894788450357653	necessary	35	2	False
+CCTX010	renal cell carcinoma	ENSG00000181555	0.4809621631944948	necessary	174	5	False
+CCTX010	renal cell carcinoma	ENSG00000182578	0.6019827922078551	necessary	218	2	False
+CCTX010	renal cell carcinoma	ENSG00000182866	0.5792860498905634	necessary	60	2	False
+CCTX010	renal cell carcinoma	ENSG00000185823	0.40510410767514915	necessary	4	1	False
+CCTX010	renal cell carcinoma	ENSG00000186575	0.4269693045002773	necessary	60	3	False
+CCTX010	renal cell carcinoma	ENSG00000188379	0.3958731314091174	necessary	79	2	False
+CCTX010	renal cell carcinoma	ENSG00000188389	0.6145777457951558	necessary	1100	2	False
+CCTX010	renal cell carcinoma	ENSG00000197919	0.3952395387942299	necessary	223	2	False
+CCTX010	renal cell carcinoma	ENSG00000198793	0.4591239114471996	necessary	1627	4	False
+CCTX010	renal cell carcinoma	ENSG00000234829	0.3842475862524138	necessary	24	2	False
+CCTX010	renal cell carcinoma	ENSG00000275410	0.4857257480135317	necessary	18	2	False
+CCTX011	hepatocellular carcinoma	ENSG00000037280	0.6789291319301091	necessary	621	4	False
+CCTX011	hepatocellular carcinoma	ENSG00000062822	0.4648239999470233	necessary	51	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000066468	0.5563834409085635	necessary	176	5	False
+CCTX011	hepatocellular carcinoma	ENSG00000068078	0.47397279376398493	necessary	102	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000077782	0.49835727224994836	necessary	271	4	False
+CCTX011	hepatocellular carcinoma	ENSG00000079999	0.4692389112131456	necessary	382	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000099949	0.4506160429646778	necessary	23	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000100344	0.5236550745730357	necessary	527	2	False
+CCTX011	hepatocellular carcinoma	ENSG00000102755	0.6083182901817853	necessary	728	2	False
+CCTX011	hepatocellular carcinoma	ENSG00000103126	0.787420262459521	necessary	423	8	False
+CCTX011	hepatocellular carcinoma	ENSG00000103197	0.5872232088475758	necessary	128	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000105976	0.7585917224067431	necessary	1685	8	False
+CCTX011	hepatocellular carcinoma	ENSG00000112715	0.4775902888814577	necessary	4688	4	False
+CCTX011	hepatocellular carcinoma	ENSG00000113721	0.6712365316378732	necessary	583	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000116044	0.6024678357626887	necessary	763	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000117713	0.6428437820385481	necessary	373	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000120217	0.612533873044762	necessary	4751	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000121879	0.6747918521341701	necessary	461	8	False
+CCTX011	hepatocellular carcinoma	ENSG00000121989	0.491925580920668	necessary	39	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000122025	0.666433220728927	necessary	351	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000122512	0.4692816942210865	necessary	15	4	False
+CCTX011	hepatocellular carcinoma	ENSG00000128052	0.6751080069362462	necessary	1837	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000131747	0.4508490148325395	necessary	353	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000132155	0.6727000191151999	necessary	639	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000133703	0.5089922234609725	necessary	550	4	False
+CCTX011	hepatocellular carcinoma	ENSG00000134853	0.48086477920743437	necessary	197	4	False
+CCTX011	hepatocellular carcinoma	ENSG00000134982	0.7127780231871278	necessary	627	7	False
+CCTX011	hepatocellular carcinoma	ENSG00000135100	0.5288204907008439	necessary	255	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000139687	0.621650050780886	necessary	626	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000141510	0.7979246872842057	necessary	6809	7	False
+CCTX011	hepatocellular carcinoma	ENSG00000147889	0.6061352699141799	necessary	678	5	False
+CCTX011	hepatocellular carcinoma	ENSG00000153201	0.4999783189884697	necessary	19	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000157404	0.6707636482177971	necessary	575	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000157764	0.6689246998849809	necessary	524	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000160867	0.47575356673591374	necessary	449	4	False
+CCTX011	hepatocellular carcinoma	ENSG00000162733	0.45304878632071216	necessary	87	4	False
+CCTX011	hepatocellular carcinoma	ENSG00000163599	0.6062437484613229	necessary	1515	2	False
+CCTX011	hepatocellular carcinoma	ENSG00000163930	0.5315408146441459	necessary	85	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000164362	0.5983562097762736	necessary	876	5	False
+CCTX011	hepatocellular carcinoma	ENSG00000165731	0.692929854354995	necessary	407	5	False
+CCTX011	hepatocellular carcinoma	ENSG00000166164	0.5154813771687384	necessary	23	2	False
+CCTX011	hepatocellular carcinoma	ENSG00000168036	0.7810413996463919	necessary	1884	7	False
+CCTX011	hepatocellular carcinoma	ENSG00000172915	0.47336663737569223	necessary	6	4	False
+CCTX011	hepatocellular carcinoma	ENSG00000176890	0.5579876111507607	necessary	243	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000177084	0.46246241853441955	necessary	29	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000177189	0.5361711231646336	necessary	59	2	False
+CCTX011	hepatocellular carcinoma	ENSG00000188389	0.4509332229859145	necessary	2894	2	False
+CCTX011	hepatocellular carcinoma	ENSG00000189079	0.6345091528677835	necessary	191	3	False
+CCTX011	hepatocellular carcinoma	ENSG00000196712	0.45453643362293455	necessary	50	4	False
+CCTX011	hepatocellular carcinoma	ENSG00000197081	0.4989399479195486	necessary	69	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000014138	0.5996841603098029	necessary	352	2	False
+CCTX012	non-small cell lung carcinoma	ENSG00000019582	0.6269646773394818	necessary	151	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000037280	0.6405220677302564	necessary	371	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000047936	0.712819960429178	necessary	2626	4	False
+CCTX012	non-small cell lung carcinoma	ENSG00000062822	0.6880145889082475	necessary	360	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000101162	0.6041968052643952	necessary	1444	2	False
+CCTX012	non-small cell lung carcinoma	ENSG00000104833	0.6008665812003474	necessary	1444	2	False
+CCTX012	non-small cell lung carcinoma	ENSG00000105976	0.723640367740144	necessary	3618	6	False
+CCTX012	non-small cell lung carcinoma	ENSG00000108091	0.6783147458694702	necessary	125	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000112715	0.6252972812918238	necessary	2834	2	False
+CCTX012	non-small cell lung carcinoma	ENSG00000113721	0.6031240533860277	necessary	385	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000120217	0.6773589280614019	necessary	13928	4	False
+CCTX012	non-small cell lung carcinoma	ENSG00000121879	0.6683922630815206	necessary	1044	6	False
+CCTX012	non-small cell lung carcinoma	ENSG00000123416	0.6074722859308143	necessary	1451	2	False
+CCTX012	non-small cell lung carcinoma	ENSG00000124145	0.6206583079960407	necessary	35	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000127824	0.6026569877735465	necessary	1444	2	False
+CCTX012	non-small cell lung carcinoma	ENSG00000128052	0.646418755818601	necessary	1148	4	False
+CCTX012	non-small cell lung carcinoma	ENSG00000133703	0.8044627848467236	necessary	6714	7	False
+CCTX012	non-small cell lung carcinoma	ENSG00000134853	0.599836912785719	necessary	202	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000137267	0.6017402510936932	necessary	1446	2	False
+CCTX012	non-small cell lung carcinoma	ENSG00000137285	0.6092696410192416	necessary	1446	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000140538	0.6500468592597035	necessary	82	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000141736	0.7793189144776156	necessary	3010	6	False
+CCTX012	non-small cell lung carcinoma	ENSG00000143924	0.7042705262790772	necessary	1700	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000146648	0.8487194052237186	necessary	30514	9	False
+CCTX012	non-small cell lung carcinoma	ENSG00000148053	0.6548876537537119	necessary	102	4	False
+CCTX012	non-small cell lung carcinoma	ENSG00000152086	0.600496556304342	necessary	1439	1	False
+CCTX012	non-small cell lung carcinoma	ENSG00000157764	0.7007572578349336	necessary	2401	6	False
+CCTX012	non-small cell lung carcinoma	ENSG00000159131	0.6022998360977866	necessary	705	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000163599	0.6090060828915522	necessary	1958	2	False
+CCTX012	non-small cell lung carcinoma	ENSG00000165731	0.7055018631186448	necessary	1660	4	False
+CCTX012	non-small cell lung carcinoma	ENSG00000167325	0.6153838195277451	necessary	565	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000167552	0.6025728071097052	necessary	1442	2	False
+CCTX012	non-small cell lung carcinoma	ENSG00000167553	0.6024673468678735	necessary	1446	2	False
+CCTX012	non-small cell lung carcinoma	ENSG00000170759	0.6737987756037663	necessary	220	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000171094	0.7561067395788195	necessary	9911	5	False
+CCTX012	non-small cell lung carcinoma	ENSG00000171848	0.619997975519364	necessary	470	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000176014	0.6036042515073201	necessary	1449	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000176890	0.6291569741512333	necessary	1081	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000177084	0.6661685003813493	necessary	382	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000178568	0.6764623577339314	necessary	297	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000181163	0.6611332246579125	necessary	160	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000188229	0.6112272782884964	necessary	1444	2	False
+CCTX012	non-small cell lung carcinoma	ENSG00000188389	0.6238352213353658	necessary	6179	2	False
+CCTX012	non-small cell lung carcinoma	ENSG00000196230	0.6180974141626975	necessary	1479	2	False
+CCTX012	non-small cell lung carcinoma	ENSG00000198033	0.600496556304342	necessary	1439	1	False
+CCTX012	non-small cell lung carcinoma	ENSG00000198400	0.6558567714393484	necessary	1085	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000228716	0.611898448451603	necessary	736	2	False
+CCTX012	non-small cell lung carcinoma	ENSG00000258947	0.6173149174799957	necessary	1551	3	False
+CCTX012	non-small cell lung carcinoma	ENSG00000261456	0.6045212534573791	necessary	1444	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000005339	0.3725225640533638	necessary	3	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000012124	0.4486587716047973	necessary	111	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000030110	0.4185086288392822	necessary	3	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000062822	0.3998324570724237	necessary	5	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000071564	0.418688203790375	necessary	38	3	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000076685	0.37002489600532784	necessary	1	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000078403	0.37187502048535453	necessary	2	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000085832	0.37002489600532784	necessary	1	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000097007	0.4659206101958712	necessary	90	3	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000101162	0.33722525736558423	tie_chosen	9	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000104833	0.33722525736558423	tie_chosen	9	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000107485	0.5423433837136888	necessary	14	3	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000109320	0.35597930420612556	necessary	8	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000113580	0.36553585901248165	necessary	13	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000113721	0.41738808269400984	necessary	4	3	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000118058	0.37525740180781136	necessary	51	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000118513	0.37036454466848956	necessary	6	3	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000123416	0.33722525736558423	tie_chosen	9	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000127824	0.33722525736558423	tie_chosen	9	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000130382	0.3705799333493358	necessary	2	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000131747	0.3707560402414335	necessary	13	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000132436	0.40142800139699264	necessary	8	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000137267	0.33722525736558423	tie_chosen	9	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000137285	0.33722525736558423	tie_chosen	9	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000139083	0.3738123313211857	necessary	60	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000147883	0.3780307462010891	necessary	5	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000147889	0.5162175603105537	necessary	19	3	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000150347	0.4612708162505577	necessary	7	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000150867	0.4289322537956266	necessary	4	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000152086	0.33722525736558423	tie_chosen	9	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000157404	0.4397129180863313	necessary	4	3	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000157554	0.4847316170041584	necessary	6	3	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000159216	0.3752874068085048	necessary	60	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000160654	0.47146327825187895	necessary	10	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000167286	0.47146327825187895	necessary	10	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000167552	0.33722525736558423	tie_chosen	9	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000167553	0.33722525736558423	tie_chosen	9	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000171843	0.3731559747260396	necessary	5	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000172493	0.37349566577294974	necessary	14	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000176014	0.33722525736558423	tie_chosen	9	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000177084	0.3767059010720907	necessary	5	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000177455	0.5235300032821881	necessary	597	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000179295	0.3723152698766106	necessary	9	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000185630	0.3735815325067311	necessary	30	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000185811	0.49615902533407846	necessary	83	3	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000186716	0.46667583921911915	necessary	69	3	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000188229	0.33722525736558423	tie_chosen	9	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000196092	0.3750707666565605	necessary	40	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000196230	0.33722525736558423	possible_unchosen	9	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000198033	0.33722525736558423	possible_unchosen	9	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000198851	0.47215707493188896	necessary	12	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000213281	0.37082985433117943	necessary	6	2	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000258947	0.33722525736558423	possible_unchosen	9	1	False
+CCTX014	B-cell acute lymphoblastic leukemia	ENSG00000261456	0.33722525736558423	possible_unchosen	9	1	False
+CCTX017	acute myeloid leukemia	ENSG00000014138	0.5892675750934763	necessary	799	2	False
+CCTX017	acute myeloid leukemia	ENSG00000027075	0.5479936825248157	necessary	47	2	False
+CCTX017	acute myeloid leukemia	ENSG00000062822	0.656078242469265	necessary	797	3	False
+CCTX017	acute myeloid leukemia	ENSG00000077514	0.5864930050815964	necessary	794	1	False
+CCTX017	acute myeloid leukemia	ENSG00000096968	0.6682804945328932	necessary	675	10	False
+CCTX017	acute myeloid leukemia	ENSG00000100479	0.5873148306915641	necessary	795	2	False
+CCTX017	acute myeloid leukemia	ENSG00000101868	0.5864930050815964	necessary	794	1	False
+CCTX017	acute myeloid leukemia	ENSG00000105383	0.6049743841573775	necessary	2292	2	False
+CCTX017	acute myeloid leukemia	ENSG00000106628	0.5885743951216263	necessary	796	2	False
+CCTX017	acute myeloid leukemia	ENSG00000113721	0.6488630629173854	necessary	288	4	False
+CCTX017	acute myeloid leukemia	ENSG00000119772	0.8561797582573469	necessary	2650	10	False
+CCTX017	acute myeloid leukemia	ENSG00000122025	0.835441837110765	necessary	8470	10	False
+CCTX017	acute myeloid leukemia	ENSG00000126583	0.5447076527324316	necessary	51	2	False
+CCTX017	acute myeloid leukemia	ENSG00000128052	0.6293302830247357	necessary	260	3	False
+CCTX017	acute myeloid leukemia	ENSG00000128602	0.6201608224382892	necessary	105	3	False
+CCTX017	acute myeloid leukemia	ENSG00000130816	0.6207450942987005	necessary	1092	2	False
+CCTX017	acute myeloid leukemia	ENSG00000131747	0.6026305042125525	necessary	721	2	False
+CCTX017	acute myeloid leukemia	ENSG00000133703	0.750171533524298	necessary	637	10	False
+CCTX017	acute myeloid leukemia	ENSG00000134853	0.6326727558690555	necessary	202	3	False
+CCTX017	acute myeloid leukemia	ENSG00000138413	0.7797697995852472	necessary	2564	7	False
+CCTX017	acute myeloid leukemia	ENSG00000139083	0.6331530803458427	necessary	459	7	False
+CCTX017	acute myeloid leukemia	ENSG00000141510	0.7234169739399193	necessary	3542	7	False
+CCTX017	acute myeloid leukemia	ENSG00000144554	0.6426088148517465	necessary	16	4	False
+CCTX017	acute myeloid leukemia	ENSG00000146143	0.5912570756176649	necessary	796	2	False
+CCTX017	acute myeloid leukemia	ENSG00000148229	0.5864930050815964	necessary	794	1	False
+CCTX017	acute myeloid leukemia	ENSG00000152217	0.6562415863679266	necessary	139	4	False
+CCTX017	acute myeloid leukemia	ENSG00000154229	0.5545427695615898	necessary	82	2	False
+CCTX017	acute myeloid leukemia	ENSG00000157404	0.7413694652275603	necessary	2238	9	False
+CCTX017	acute myeloid leukemia	ENSG00000159216	0.7537872548033212	necessary	3930	8	False
+CCTX017	acute myeloid leukemia	ENSG00000160201	0.5669577407328625	necessary	360	3	False
+CCTX017	acute myeloid leukemia	ENSG00000161547	0.7333423146022037	necessary	494	6	False
+CCTX017	acute myeloid leukemia	ENSG00000163932	0.5564381009478351	necessary	73	3	False
+CCTX017	acute myeloid leukemia	ENSG00000164362	0.7120290425137298	necessary	186	5	False
+CCTX017	acute myeloid leukemia	ENSG00000165671	0.6566915437989905	necessary	201	4	False
+CCTX017	acute myeloid leukemia	ENSG00000166501	0.5889686816819838	necessary	55	3	False
+CCTX017	acute myeloid leukemia	ENSG00000167601	0.597110008813601	necessary	265	2	False
+CCTX017	acute myeloid leukemia	ENSG00000168769	0.7545799247558668	necessary	1391	4	False
+CCTX017	acute myeloid leukemia	ENSG00000171132	0.5624640006893408	necessary	57	2	False
+CCTX017	acute myeloid leukemia	ENSG00000171456	0.7292936784525892	necessary	974	4	False
+CCTX017	acute myeloid leukemia	ENSG00000175482	0.5864930050815964	necessary	794	1	False
+CCTX017	acute myeloid leukemia	ENSG00000177084	0.656078242469265	necessary	797	3	False
+CCTX017	acute myeloid leukemia	ENSG00000179295	0.6441892205368104	necessary	401	4	False
+CCTX017	acute myeloid leukemia	ENSG00000179348	0.750088969103809	necessary	723	5	False
+CCTX017	acute myeloid leukemia	ENSG00000181163	0.6574327905167677	necessary	4078	8	False
+CCTX017	acute myeloid leukemia	ENSG00000182054	0.6904528205208746	necessary	1952	6	False
+CCTX017	acute myeloid leukemia	ENSG00000183258	0.7049930372895452	necessary	182	3	False
+CCTX017	acute myeloid leukemia	ENSG00000184304	0.5887632311360694	necessary	47	3	False
+CCTX017	acute myeloid leukemia	ENSG00000198056	0.5864930050815964	necessary	794	1	False
+CCTX017	acute myeloid leukemia	ENSG00000213281	0.6999417595575024	necessary	955	6	False
+CCTX017	acute myeloid leukemia	ENSG00000245848	0.8396321279823974	necessary	2719	12	False
+CCTX019	ovarian epithelial tumor	ENSG00000005339	0.09601378111148602	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000012048	0.4663473284310496	necessary	20	2	False
+CCTX019	ovarian epithelial tumor	ENSG00000018408	0.11544154983204549	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000041982	0.13043636118790142	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000046889	0.10812348059635635	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000047936	0.16574176647285196	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000055609	0.13144462929680675	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000077782	0.14457485863526265	necessary	2	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000083093	0.14335620497289758	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000083857	0.11540422820309282	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000100345	0.19146121334014848	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000105568	0.13134053659844908	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000105656	0.12938666303673158	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000108375	0.11478796287992768	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000117713	0.43182468038957517	necessary	3	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000118058	0.15584086718778237	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000121879	0.41986233424717234	necessary	5	3	False
+CCTX019	ovarian epithelial tumor	ENSG00000126012	0.09559865260643995	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000127329	0.15989130834179172	necessary	2	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000127616	0.10827436119868879	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000131023	0.1815680694932187	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000133703	0.45608497725989017	necessary	12	2	False
+CCTX019	ovarian epithelial tumor	ENSG00000135446	0.0943563484813586	tie_chosen	3	2	False
+CCTX019	ovarian epithelial tumor	ENSG00000139618	0.33587932162363376	necessary	6	2	False
+CCTX019	ovarian epithelial tumor	ENSG00000139687	0.38832912155618116	necessary	7	2	False
+CCTX019	ovarian epithelial tumor	ENSG00000139718	0.1594946053552943	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000141510	0.5490943836272051	necessary	61	2	False
+CCTX019	ovarian epithelial tumor	ENSG00000141736	0.15378033943639127	necessary	11	3	False
+CCTX019	ovarian epithelial tumor	ENSG00000148400	0.17763938973287977	necessary	3	2	False
+CCTX019	ovarian epithelial tumor	ENSG00000153707	0.09828490023872268	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000157764	0.13032479547515058	necessary	4	2	False
+CCTX019	ovarian epithelial tumor	ENSG00000160007	0.1249263733742076	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000162434	0.12938666303673158	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000164796	0.17780016400204307	necessary	2	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000167258	0.33453576280014213	necessary	3	2	False
+CCTX019	ovarian epithelial tumor	ENSG00000167548	0.20053164150004704	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000168036	0.10314497702884176	necessary	3	2	False
+CCTX019	ovarian epithelial tumor	ENSG00000169862	0.11729831450159013	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000171862	0.20512238249024883	necessary	11	2	False
+CCTX019	ovarian epithelial tumor	ENSG00000172915	0.11363557753677521	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000173757	0.09699008244795004	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000179399	0.15717279579513538	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000183770	0.35711997892354524	necessary	4	2	False
+CCTX019	ovarian epithelial tumor	ENSG00000184507	0.09547970222181101	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000186575	0.20053164150004704	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000196090	0.21315466991295673	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000196230	0.0943563484813586	possible_unchosen	3	2	False
+CCTX019	ovarian epithelial tumor	ENSG00000196712	0.4955514660775631	necessary	5	2	False
+CCTX019	ovarian epithelial tumor	ENSG00000198286	0.20904461698700855	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000198795	0.10800621370031745	necessary	1	1	False
+CCTX019	ovarian epithelial tumor	ENSG00000213281	0.21241152178740375	necessary	2	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000014138	0.41793782256374234	necessary	273	1	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000048392	0.4188628848037557	necessary	276	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000055609	0.5043352384919386	necessary	7	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000062822	0.41978794704376904	necessary	274	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000065559	0.417278445687786	necessary	5	3	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000077514	0.41793782256374234	necessary	273	1	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000087460	0.4981543827629628	necessary	22	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000100479	0.418677872355753	necessary	274	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000101162	0.4071716032348115	necessary	142	1	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000101868	0.41793782256374234	necessary	273	1	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000104833	0.4071716032348115	necessary	142	1	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000106628	0.4216380715237956	necessary	274	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000108375	0.5246755409002369	necessary	29	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000117713	0.5540803942413246	necessary	17	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000121989	0.3587567927731441	necessary	3	1	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000123416	0.41133438331487143	necessary	144	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000127824	0.4071716032348115	necessary	142	1	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000133703	0.6194208679302148	necessary	719	4	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000135503	0.43811924550693737	necessary	6	3	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000137267	0.4071716032348115	necessary	142	1	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000137285	0.4071716032348115	necessary	142	1	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000141510	0.5855659177853483	necessary	377	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000141646	0.6139601278608405	necessary	192	3	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000146143	0.41793782256374234	necessary	273	1	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000146648	0.36124221693686465	necessary	181	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000147050	0.34831588641323735	necessary	10	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000147889	0.5740933337555022	necessary	135	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000148229	0.41793782256374234	necessary	273	1	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000149311	0.32465653515527304	necessary	33	3	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000152086	0.4071716032348115	necessary	142	1	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000160201	0.3295579766571315	necessary	6	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000163513	0.5192840315842121	necessary	8	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000167325	0.42111691121321326	necessary	286	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000167548	0.4458390122045882	necessary	5	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000167552	0.40902172771483813	necessary	143	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000167553	0.41197935726554735	necessary	146	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000171848	0.4263235874771301	necessary	299	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000175482	0.419232909699761	necessary	274	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000176014	0.4108718521948647	necessary	143	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000176890	0.42209783850790156	necessary	173	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000177084	0.4650132121110868	necessary	275	3	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000182872	0.5138189780839858	necessary	7	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000183337	0.3346730411346353	necessary	2	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000188229	0.4071716032348115	necessary	142	1	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000196230	0.4071716032348115	necessary	142	1	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000198033	0.4071716032348115	necessary	142	1	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000198056	0.41793782256374234	necessary	273	1	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000198900	0.4131026628378196	necessary	104	1	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000258947	0.4084204372588295	necessary	144	2	False
+CCTX020	pancreatic adenocarcinoma	ENSG00000261456	0.4071716032348115	necessary	142	1	False
+CCTX021	neuroblastoma	ENSG00000054523	0.46109643394025174	necessary	229	3	False
+CCTX021	neuroblastoma	ENSG00000073756	0.31732047395079455	necessary	84	3	False
+CCTX021	neuroblastoma	ENSG00000077092	0.40823400144901506	necessary	78	2	False
+CCTX021	neuroblastoma	ENSG00000077097	0.4342547012207958	necessary	70	2	False
+CCTX021	neuroblastoma	ENSG00000085224	0.4452174252507073	necessary	190	3	False
+CCTX021	neuroblastoma	ENSG00000085382	0.3302470759488222	necessary	22	2	False
+CCTX021	neuroblastoma	ENSG00000100368	0.3923680433169892	necessary	42	2	False
+CCTX021	neuroblastoma	ENSG00000100385	0.37113337457333967	necessary	25	2	False
+CCTX021	neuroblastoma	ENSG00000101115	0.35022513241284764	necessary	7	2	False
+CCTX021	neuroblastoma	ENSG00000101162	0.4137721917825534	necessary	65	2	False
+CCTX021	neuroblastoma	ENSG00000103546	0.4696874736468145	necessary	112	2	False
+CCTX021	neuroblastoma	ENSG00000104833	0.4145764820078984	necessary	67	2	False
+CCTX021	neuroblastoma	ENSG00000104885	0.3313363478558486	necessary	20	2	False
+CCTX021	neuroblastoma	ENSG00000109132	0.6258660282585855	necessary	383	5	False
+CCTX021	neuroblastoma	ENSG00000109625	0.3173261436610725	necessary	13	2	False
+CCTX021	neuroblastoma	ENSG00000119535	0.40938622330238816	necessary	72	2	False
+CCTX021	neuroblastoma	ENSG00000123416	0.41642616071695654	necessary	72	2	False
+CCTX021	neuroblastoma	ENSG00000127824	0.41402618974458	necessary	64	2	False
+CCTX021	neuroblastoma	ENSG00000130702	0.3168186594382771	necessary	4	2	False
+CCTX021	neuroblastoma	ENSG00000131747	0.42464551594690864	necessary	126	2	False
+CCTX021	neuroblastoma	ENSG00000131759	0.4208008325398281	necessary	79	2	False
+CCTX021	neuroblastoma	ENSG00000134460	0.3705071044252009	necessary	26	2	False
+CCTX021	neuroblastoma	ENSG00000134470	0.34520749300931736	necessary	7	3	False
+CCTX021	neuroblastoma	ENSG00000137267	0.41423472290256014	necessary	64	2	False
+CCTX021	neuroblastoma	ENSG00000137285	0.42068882761231624	necessary	70	2	False
+CCTX021	neuroblastoma	ENSG00000138376	0.5716314396026911	necessary	111	3	False
+CCTX021	neuroblastoma	ENSG00000138829	0.3778681903843208	necessary	3	3	False
+CCTX021	neuroblastoma	ENSG00000139618	0.3218943407728977	necessary	34	4	False
+CCTX021	neuroblastoma	ENSG00000146205	0.32233842398218726	necessary	3	2	False
+CCTX021	neuroblastoma	ENSG00000147168	0.3729411003673657	necessary	27	2	False
+CCTX021	neuroblastoma	ENSG00000152086	0.41329127918723607	necessary	61	1	False
+CCTX021	neuroblastoma	ENSG00000165801	0.3290082854471451	necessary	2	2	False
+CCTX021	neuroblastoma	ENSG00000166407	0.4709849305785123	necessary	119	2	False
+CCTX021	neuroblastoma	ENSG00000167552	0.4165617853444565	necessary	66	2	False
+CCTX021	neuroblastoma	ENSG00000167553	0.41329127918723607	necessary	61	1	False
+CCTX021	neuroblastoma	ENSG00000171094	0.8384565435116704	necessary	1298	10	False
+CCTX021	neuroblastoma	ENSG00000172819	0.4088841760637434	necessary	52	2	False
+CCTX021	neuroblastoma	ENSG00000176014	0.4133096606625468	necessary	63	1	False
+CCTX021	neuroblastoma	ENSG00000179295	0.4417272885722842	necessary	72	4	False
+CCTX021	neuroblastoma	ENSG00000188229	0.41367968555855217	necessary	64	2	False
+CCTX021	neuroblastoma	ENSG00000196230	0.4184426980263645	necessary	79	2	False
+CCTX021	neuroblastoma	ENSG00000196712	0.3968345682101105	necessary	115	3	False
+CCTX021	neuroblastoma	ENSG00000198033	0.41329127918723607	necessary	61	1	False
+CCTX021	neuroblastoma	ENSG00000198223	0.38289129459151944	necessary	39	1	False
+CCTX021	neuroblastoma	ENSG00000198900	0.4151987098134891	necessary	99	2	False
+CCTX021	neuroblastoma	ENSG00000215853	0.32942525722360044	necessary	2	2	False
+CCTX021	neuroblastoma	ENSG00000240563	0.3432432204002652	necessary	2	2	False
+CCTX021	neuroblastoma	ENSG00000258947	0.4159545482772061	necessary	86	2	False
+CCTX021	neuroblastoma	ENSG00000261456	0.4133096606625468	necessary	63	1	False
+CCTX021	neuroblastoma	ENSG00000292357	0.38289129459151944	necessary	39	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000014138	0.34748936143467657	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000037280	0.2253655175814264	necessary	10	2	False
+CCTX022	malignant pleural mesothelioma	ENSG00000048392	0.34748936143467657	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000062822	0.34748936143467657	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000066468	0.21719433548579403	necessary	6	2	False
+CCTX022	malignant pleural mesothelioma	ENSG00000068078	0.21932197863782463	necessary	5	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000073756	0.2890774788700023	necessary	10	2	False
+CCTX022	malignant pleural mesothelioma	ENSG00000077514	0.34748936143467657	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000077782	0.22070186314584447	necessary	9	2	False
+CCTX022	malignant pleural mesothelioma	ENSG00000094631	0.2816300597373884	necessary	3	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000100479	0.34748936143467657	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000101162	0.3672985202211215	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000101868	0.3478593863306819	necessary	15	2	False
+CCTX022	malignant pleural mesothelioma	ENSG00000102755	0.22795569185346368	necessary	10	2	False
+CCTX022	malignant pleural mesothelioma	ENSG00000104833	0.3672985202211215	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000106628	0.34748936143467657	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000112715	0.32242486117079705	necessary	29	2	False
+CCTX022	malignant pleural mesothelioma	ENSG00000113721	0.22749316073345704	necessary	12	2	False
+CCTX022	malignant pleural mesothelioma	ENSG00000116478	0.2816300597373884	necessary	3	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000120217	0.35479726198706885	necessary	92	2	False
+CCTX022	malignant pleural mesothelioma	ENSG00000123416	0.3672985202211215	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000127824	0.3672985202211215	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000128052	0.2260426117487695	necessary	14	2	False
+CCTX022	malignant pleural mesothelioma	ENSG00000134853	0.22337764762801907	necessary	8	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000137267	0.3672985202211215	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000137285	0.3672985202211215	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000146143	0.34748936143467657	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000148229	0.34748936143467657	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000152086	0.3672985202211215	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000159131	0.5574809008254857	necessary	50	2	False
+CCTX022	malignant pleural mesothelioma	ENSG00000163599	0.3483721623837335	necessary	31	2	False
+CCTX022	malignant pleural mesothelioma	ENSG00000167325	0.35069305754122937	necessary	19	2	False
+CCTX022	malignant pleural mesothelioma	ENSG00000167552	0.3672985202211215	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000167553	0.3672985202211215	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000171720	0.2816300597373884	necessary	3	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000171848	0.34748936143467657	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000175482	0.34748936143467657	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000176014	0.3672985202211215	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000176890	0.5636121142596909	necessary	70	2	False
+CCTX022	malignant pleural mesothelioma	ENSG00000177084	0.34748936143467657	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000188229	0.3672985202211215	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000188379	0.2616028219875267	necessary	7	2	False
+CCTX022	malignant pleural mesothelioma	ENSG00000188389	0.381115572659068	necessary	62	2	False
+CCTX022	malignant pleural mesothelioma	ENSG00000196230	0.3672985202211215	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000196591	0.2816300597373884	necessary	3	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000198033	0.3672985202211215	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000198056	0.34748936143467657	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000228716	0.5590045624007717	necessary	54	2	False
+CCTX022	malignant pleural mesothelioma	ENSG00000258947	0.3672985202211215	necessary	14	1	False
+CCTX022	malignant pleural mesothelioma	ENSG00000261456	0.3672985202211215	necessary	14	1	False
+CCTX023	melanoma	ENSG00000037280	0.4871284455048257	necessary	147	3	False
+CCTX023	melanoma	ENSG00000048392	0.5746448076275233	necessary	34	2	False
+CCTX023	melanoma	ENSG00000077498	0.5557300763541124	necessary	3048	3	False
+CCTX023	melanoma	ENSG00000089692	0.5923320198458265	necessary	702	2	False
+CCTX023	melanoma	ENSG00000099810	0.4848991198860703	necessary	115	2	False
+CCTX023	melanoma	ENSG00000104044	0.5358371355831526	necessary	79	2	False
+CCTX023	melanoma	ENSG00000106462	0.4580322663050052	necessary	415	4	False
+CCTX023	melanoma	ENSG00000107960	0.49436566880595506	necessary	24	2	False
+CCTX023	melanoma	ENSG00000113721	0.4697796981589057	necessary	220	3	False
+CCTX023	melanoma	ENSG00000118046	0.45043546029599135	necessary	146	3	False
+CCTX023	melanoma	ENSG00000119414	0.587760525294492	necessary	67	3	False
+CCTX023	melanoma	ENSG00000119535	0.46079955993462124	necessary	49	3	False
+CCTX023	melanoma	ENSG00000119772	0.4925186545916548	necessary	60	5	False
+CCTX023	melanoma	ENSG00000126934	0.6919718997446034	necessary	272	3	False
+CCTX023	melanoma	ENSG00000128052	0.47744686507561185	necessary	432	3	False
+CCTX023	melanoma	ENSG00000132155	0.47086067054553654	necessary	537	4	False
+CCTX023	melanoma	ENSG00000135446	0.48143341038015935	necessary	991	5	False
+CCTX023	melanoma	ENSG00000136238	0.5395918033125692	necessary	368	3	False
+CCTX023	melanoma	ENSG00000137265	0.5749365133649573	necessary	79	5	False
+CCTX023	melanoma	ENSG00000138413	0.4488445536507265	necessary	96	3	False
+CCTX023	melanoma	ENSG00000140995	0.43904491257585593	necessary	13	2	False
+CCTX023	melanoma	ENSG00000141510	0.6123924443007858	necessary	2586	4	False
+CCTX023	melanoma	ENSG00000142166	0.6094819307899464	necessary	172	2	False
+CCTX023	melanoma	ENSG00000147889	0.7913188038293422	necessary	2189	8	False
+CCTX023	melanoma	ENSG00000157404	0.47710736070953186	necessary	1505	4	False
+CCTX023	melanoma	ENSG00000157764	0.8194550024332987	necessary	13475	7	False
+CCTX023	melanoma	ENSG00000159110	0.5905720950819577	necessary	111	2	False
+CCTX023	melanoma	ENSG00000163599	0.6114542171533284	necessary	5317	2	False
+CCTX023	melanoma	ENSG00000163939	0.448316016184919	necessary	34	3	False
+CCTX023	melanoma	ENSG00000164175	0.46831726803662865	necessary	98	3	False
+CCTX023	melanoma	ENSG00000165392	0.4449154835088009	necessary	19	3	False
+CCTX023	melanoma	ENSG00000165731	0.439316356447374	necessary	223	4	False
+CCTX023	melanoma	ENSG00000167325	0.5635661049176136	necessary	35	2	False
+CCTX023	melanoma	ENSG00000169032	0.7308686141034849	necessary	786	4	False
+CCTX023	melanoma	ENSG00000171848	0.5811929901473754	necessary	75	3	False
+CCTX023	melanoma	ENSG00000171862	0.7114659102409264	necessary	1503	5	False
+CCTX023	melanoma	ENSG00000177084	0.44953660828621267	necessary	59	3	False
+CCTX023	melanoma	ENSG00000178691	0.4586750532849627	necessary	13	4	False
+CCTX023	melanoma	ENSG00000181555	0.4522758703899461	necessary	23	3	False
+CCTX023	melanoma	ENSG00000183486	0.49252739472690776	necessary	34	2	False
+CCTX023	melanoma	ENSG00000185664	0.4743161313348547	necessary	2576	3	False
+CCTX023	melanoma	ENSG00000187098	0.5007792977578567	necessary	2463	7	False
+CCTX023	melanoma	ENSG00000188389	0.626755643427622	necessary	5618	2	False
+CCTX023	melanoma	ENSG00000189079	0.6266619511414002	necessary	99	3	False
+CCTX023	melanoma	ENSG00000196712	0.614189679617077	necessary	688	3	False
+CCTX023	melanoma	ENSG00000213281	0.6796377735813675	necessary	3003	4	False
+CCTX023	melanoma	ENSG00000215301	0.47541181697961293	necessary	37	3	False
+CCTX023	melanoma	ENSG00000258839	0.4988898772258229	necessary	906	3	False
+CCTX023	melanoma	ENSG00000258947	0.4369917506610287	necessary	103	3	False
+CCTX023	melanoma	ENSG00000286522	0.4394045640063268	necessary	2	2	False
+CCTX024	rhabdomyosarcoma	ENSG00000009709	0.37920848887544184	necessary	181	2	False
+CCTX024	rhabdomyosarcoma	ENSG00000012048	0.427238710741485	necessary	6	2	False
+CCTX024	rhabdomyosarcoma	ENSG00000073578	0.41720307024600717	necessary	3	2	False
+CCTX024	rhabdomyosarcoma	ENSG00000077097	0.37942078988955813	necessary	13	1	False
+CCTX024	rhabdomyosarcoma	ENSG00000088832	0.2973826268290846	necessary	8	1	False
+CCTX024	rhabdomyosarcoma	ENSG00000095002	0.38027154776596134	necessary	7	3	False
+CCTX024	rhabdomyosarcoma	ENSG00000100697	0.425338487146831	necessary	53	2	False
+CCTX024	rhabdomyosarcoma	ENSG00000101162	0.41260008589938163	necessary	55	1	False
+CCTX024	rhabdomyosarcoma	ENSG00000104320	0.4842443864736391	necessary	5	2	False
+CCTX024	rhabdomyosarcoma	ENSG00000104833	0.41260008589938163	necessary	55	1	False
+CCTX024	rhabdomyosarcoma	ENSG00000109670	0.3413685263266478	necessary	4	3	False
+CCTX024	rhabdomyosarcoma	ENSG00000110395	0.39971939390975536	necessary	4	2	False
+CCTX024	rhabdomyosarcoma	ENSG00000110628	0.45369163637986587	necessary	3	3	False
+CCTX024	rhabdomyosarcoma	ENSG00000116062	0.3797757372463571	necessary	5	3	False
+CCTX024	rhabdomyosarcoma	ENSG00000121879	0.328842827954717	necessary	27	3	False
+CCTX024	rhabdomyosarcoma	ENSG00000122512	0.37993934763710324	necessary	7	3	False
+CCTX024	rhabdomyosarcoma	ENSG00000123416	0.41260008589938163	necessary	55	1	False
+CCTX024	rhabdomyosarcoma	ENSG00000126752	0.3713490937592634	necessary	9	2	False
+CCTX024	rhabdomyosarcoma	ENSG00000127824	0.41260008589938163	necessary	55	1	False
+CCTX024	rhabdomyosarcoma	ENSG00000129152	0.44170565123971856	necessary	273	3	False
+CCTX024	rhabdomyosarcoma	ENSG00000131747	0.3993795276875622	necessary	29	2	False
+CCTX024	rhabdomyosarcoma	ENSG00000135903	0.43742118368094945	necessary	606	3	False
+CCTX024	rhabdomyosarcoma	ENSG00000137267	0.41260008589938163	necessary	55	1	False
+CCTX024	rhabdomyosarcoma	ENSG00000137285	0.41260008589938163	necessary	55	1	False
+CCTX024	rhabdomyosarcoma	ENSG00000138081	0.3330224064047951	necessary	1	1	False
+CCTX024	rhabdomyosarcoma	ENSG00000139618	0.5004785712318681	necessary	16	2	False
+CCTX024	rhabdomyosarcoma	ENSG00000141380	0.3724289349140701	necessary	19	2	False
+CCTX024	rhabdomyosarcoma	ENSG00000141510	0.6455493756929664	necessary	232	4	False
+CCTX024	rhabdomyosarcoma	ENSG00000150907	0.416531480532257	necessary	721	3	False
+CCTX024	rhabdomyosarcoma	ENSG00000151702	0.37380927130864877	necessary	50	2	False
+CCTX024	rhabdomyosarcoma	ENSG00000152086	0.41260008589938163	necessary	55	1	False
+CCTX024	rhabdomyosarcoma	ENSG00000157764	0.3043100847683105	necessary	10	3	False
+CCTX024	rhabdomyosarcoma	ENSG00000160867	0.5959545360552286	necessary	86	4	False
+CCTX024	rhabdomyosarcoma	ENSG00000167552	0.41260008589938163	necessary	55	1	False
+CCTX024	rhabdomyosarcoma	ENSG00000167553	0.41260008589938163	necessary	55	1	False
+CCTX024	rhabdomyosarcoma	ENSG00000168036	0.3202683867720172	necessary	14	3	False
+CCTX024	rhabdomyosarcoma	ENSG00000168702	0.32862912537024436	necessary	2	2	False
+CCTX024	rhabdomyosarcoma	ENSG00000171094	0.31693195521058254	necessary	101	4	False
+CCTX024	rhabdomyosarcoma	ENSG00000171862	0.4044234664613621	necessary	27	3	False
+CCTX024	rhabdomyosarcoma	ENSG00000174775	0.5079700347784968	necessary	25	4	False
+CCTX024	rhabdomyosarcoma	ENSG00000176014	0.41260008589938163	necessary	55	1	False
+CCTX024	rhabdomyosarcoma	ENSG00000182944	0.3761757392336377	necessary	144	2	False
+CCTX024	rhabdomyosarcoma	ENSG00000188229	0.41260008589938163	necessary	55	1	False
+CCTX024	rhabdomyosarcoma	ENSG00000196230	0.4145889697154103	necessary	57	2	False
+CCTX024	rhabdomyosarcoma	ENSG00000196712	0.6379925819420889	necessary	64	4	False
+CCTX024	rhabdomyosarcoma	ENSG00000198033	0.41260008589938163	necessary	55	1	False
+CCTX024	rhabdomyosarcoma	ENSG00000198900	0.3959261183738448	necessary	31	2	False
+CCTX024	rhabdomyosarcoma	ENSG00000241476	0.3713102154490095	necessary	8	2	False
+CCTX024	rhabdomyosarcoma	ENSG00000258947	0.413525148139395	necessary	56	2	False
+CCTX024	rhabdomyosarcoma	ENSG00000261456	0.41260008589938163	necessary	55	1	False
+CCTX025	endometrial carcinoma	ENSG00000012048	0.563375315939898	necessary	38	3	False
+CCTX025	endometrial carcinoma	ENSG00000037280	0.37211464784819326	necessary	16	2	False
+CCTX025	endometrial carcinoma	ENSG00000039068	0.6768949594636631	necessary	179	4	False
+CCTX025	endometrial carcinoma	ENSG00000066468	0.522598645523546	necessary	43	5	False
+CCTX025	endometrial carcinoma	ENSG00000076242	0.6410186309446461	necessary	146	4	False
+CCTX025	endometrial carcinoma	ENSG00000078399	0.37002489600532784	necessary	1	1	False
+CCTX025	endometrial carcinoma	ENSG00000087088	0.3832610388820428	necessary	27	2	False
+CCTX025	endometrial carcinoma	ENSG00000091483	0.37002489600532784	necessary	1	1	False
+CCTX025	endometrial carcinoma	ENSG00000095002	0.648154559901236	necessary	102	4	False
+CCTX025	endometrial carcinoma	ENSG00000101162	0.3961550883639318	necessary	24	1	False
+CCTX025	endometrial carcinoma	ENSG00000104833	0.3961550883639318	necessary	24	1	False
+CCTX025	endometrial carcinoma	ENSG00000108384	0.36169933584520797	necessary	3	2	False
+CCTX025	endometrial carcinoma	ENSG00000111252	0.4543500900144928	necessary	2	1	False
+CCTX025	endometrial carcinoma	ENSG00000113318	0.6475847425054406	necessary	646	3	False
+CCTX025	endometrial carcinoma	ENSG00000116062	0.7258235195470344	necessary	1232	5	False
+CCTX025	endometrial carcinoma	ENSG00000117713	0.40882406688152345	necessary	87	3	False
+CCTX025	endometrial carcinoma	ENSG00000119684	0.51317127657916	necessary	201	2	False
+CCTX025	endometrial carcinoma	ENSG00000121879	0.4636503870129436	necessary	140	5	False
+CCTX025	endometrial carcinoma	ENSG00000122512	0.6551758452413254	necessary	72	4	False
+CCTX025	endometrial carcinoma	ENSG00000123416	0.3985602501879665	necessary	25	2	False
+CCTX025	endometrial carcinoma	ENSG00000124766	0.3803635259569455	necessary	10	2	False
+CCTX025	endometrial carcinoma	ENSG00000127824	0.3961550883639318	necessary	24	1	False
+CCTX025	endometrial carcinoma	ENSG00000128052	0.4362795267903322	necessary	30	3	False
+CCTX025	endometrial carcinoma	ENSG00000131747	0.36463897807458356	necessary	7	2	False
+CCTX025	endometrial carcinoma	ENSG00000132781	0.37972777105613426	necessary	4	3	False
+CCTX025	endometrial carcinoma	ENSG00000137267	0.3961550883639318	necessary	24	1	False
+CCTX025	endometrial carcinoma	ENSG00000137285	0.3961550883639318	necessary	24	1	False
+CCTX025	endometrial carcinoma	ENSG00000137869	0.4406421246966451	necessary	56	3	False
+CCTX025	endometrial carcinoma	ENSG00000138081	0.6995231951049083	necessary	1070	3	False
+CCTX025	endometrial carcinoma	ENSG00000139618	0.554702113167335	necessary	22	3	False
+CCTX025	endometrial carcinoma	ENSG00000141736	0.35866673288381107	necessary	145	4	False
+CCTX025	endometrial carcinoma	ENSG00000145675	0.42861543388665846	necessary	18	4	False
+CCTX025	endometrial carcinoma	ENSG00000149311	0.5380470341997472	necessary	9	3	False
+CCTX025	endometrial carcinoma	ENSG00000152086	0.3961550883639318	necessary	24	1	False
+CCTX025	endometrial carcinoma	ENSG00000163513	0.37356346149629527	necessary	8	2	False
+CCTX025	endometrial carcinoma	ENSG00000167552	0.3961550883639318	necessary	24	1	False
+CCTX025	endometrial carcinoma	ENSG00000167553	0.3961550883639318	necessary	24	1	False
+CCTX025	endometrial carcinoma	ENSG00000171862	0.6390532079196621	necessary	393	6	False
+CCTX025	endometrial carcinoma	ENSG00000176014	0.3961550883639318	necessary	24	1	False
+CCTX025	endometrial carcinoma	ENSG00000177084	0.42231231280883486	necessary	181	4	False
+CCTX025	endometrial carcinoma	ENSG00000183765	0.481967705516273	necessary	6	3	False
+CCTX025	endometrial carcinoma	ENSG00000188229	0.3961550883639318	necessary	24	1	False
+CCTX025	endometrial carcinoma	ENSG00000188389	0.38738470335045083	necessary	46	2	False
+CCTX025	endometrial carcinoma	ENSG00000196230	0.3967101257079398	necessary	25	2	False
+CCTX025	endometrial carcinoma	ENSG00000198033	0.3961550883639318	necessary	24	1	False
+CCTX025	endometrial carcinoma	ENSG00000198900	0.3832841214455187	necessary	6	3	False
+CCTX025	endometrial carcinoma	ENSG00000228716	0.44964057476042496	necessary	94	3	False
+CCTX025	endometrial carcinoma	ENSG00000258947	0.3961550883639318	necessary	24	1	False
+CCTX025	endometrial carcinoma	ENSG00000261456	0.3961550883639318	necessary	24	1	False
+CCTX025	endometrial carcinoma	ENSG00000275410	0.4291703268270094	necessary	16	2	False
+CCTX026	thyroid cancer	ENSG00000020577	0.344827097343076	necessary	2	1	False
+CCTX026	thyroid cancer	ENSG00000037280	0.5406926435916654	necessary	51	2	False
+CCTX026	thyroid cancer	ENSG00000042781	0.287593691759638	necessary	2	2	False
+CCTX026	thyroid cancer	ENSG00000042832	0.45715071076282765	necessary	1582	2	False
+CCTX026	thyroid cancer	ENSG00000048740	0.29323622383372816	necessary	1	1	False
+CCTX026	thyroid cancer	ENSG00000054282	0.4810330827564545	necessary	8	2	False
+CCTX026	thyroid cancer	ENSG00000065361	0.29589103309574627	necessary	41	2	False
+CCTX026	thyroid cancer	ENSG00000079308	0.31104563052910733	necessary	7	1	False
+CCTX026	thyroid cancer	ENSG00000092969	0.43024292626516164	necessary	10	2	False
+CCTX026	thyroid cancer	ENSG00000100154	0.35416092948861355	necessary	3	1	False
+CCTX026	thyroid cancer	ENSG00000102755	0.540247135203811	necessary	50	2	False
+CCTX026	thyroid cancer	ENSG00000105976	0.46933009365381473	necessary	107	2	False
+CCTX026	thyroid cancer	ENSG00000107960	0.4570239689323489	necessary	11	2	False
+CCTX026	thyroid cancer	ENSG00000108091	0.48101962658302405	necessary	56	2	False
+CCTX026	thyroid cancer	ENSG00000111276	0.5123322355970258	necessary	36	2	False
+CCTX026	thyroid cancer	ENSG00000118655	0.3369867320084837	necessary	1	1	False
+CCTX026	thyroid cancer	ENSG00000120156	0.2877860060376927	necessary	14	2	False
+CCTX026	thyroid cancer	ENSG00000126351	0.3992151217742888	necessary	15	2	False
+CCTX026	thyroid cancer	ENSG00000126934	0.35702380280271667	necessary	24	2	False
+CCTX026	thyroid cancer	ENSG00000128052	0.583202460163385	necessary	163	2	False
+CCTX026	thyroid cancer	ENSG00000135749	0.43540379266118895	necessary	10	2	False
+CCTX026	thyroid cancer	ENSG00000141736	0.29938700132839685	necessary	96	2	False
+CCTX026	thyroid cancer	ENSG00000142627	0.28855355073517047	necessary	13	2	False
+CCTX026	thyroid cancer	ENSG00000146648	0.31712201761684233	necessary	186	2	False
+CCTX026	thyroid cancer	ENSG00000147874	0.2928911989116337	necessary	4	2	False
+CCTX026	thyroid cancer	ENSG00000149948	0.30425511485222445	necessary	35	2	False
+CCTX026	thyroid cancer	ENSG00000151090	0.4065405576646955	necessary	62	2	False
+CCTX026	thyroid cancer	ENSG00000151332	0.3693559592556134	necessary	10	2	False
+CCTX026	thyroid cancer	ENSG00000155511	0.29529121732521657	necessary	1	1	False
+CCTX026	thyroid cancer	ENSG00000155761	0.30806808284208986	necessary	1	1	False
+CCTX026	thyroid cancer	ENSG00000157168	0.5080323203835334	necessary	25	2	False
+CCTX026	thyroid cancer	ENSG00000157764	0.33311297770394754	necessary	1576	2	False
+CCTX026	thyroid cancer	ENSG00000163638	0.2967713169092379	necessary	2	2	False
+CCTX026	thyroid cancer	ENSG00000164362	0.4344460932906927	necessary	380	2	False
+CCTX026	thyroid cancer	ENSG00000165392	0.37243714997320254	necessary	6	2	False
+CCTX026	thyroid cancer	ENSG00000165409	0.4692013778431676	necessary	289	2	False
+CCTX026	thyroid cancer	ENSG00000165731	0.5357151115905947	necessary	1068	2	False
+CCTX026	thyroid cancer	ENSG00000166949	0.3826130621142423	necessary	14	2	False
+CCTX026	thyroid cancer	ENSG00000169032	0.36451761651135856	necessary	61	2	False
+CCTX026	thyroid cancer	ENSG00000169071	0.2877273118609733	necessary	4	2	False
+CCTX026	thyroid cancer	ENSG00000170759	0.47682103579870794	necessary	13	2	False
+CCTX026	thyroid cancer	ENSG00000171862	0.39704298557141504	necessary	310	2	False
+CCTX026	thyroid cancer	ENSG00000178568	0.28660755068596555	necessary	13	2	False
+CCTX026	thyroid cancer	ENSG00000178662	0.29470710734261846	necessary	1	1	False
+CCTX026	thyroid cancer	ENSG00000178919	0.38356301325846004	necessary	87	2	False
+CCTX026	thyroid cancer	ENSG00000183765	0.4688490297910467	necessary	75	3	False
+CCTX026	thyroid cancer	ENSG00000185737	0.2915314449024902	necessary	1	1	False
+CCTX026	thyroid cancer	ENSG00000197122	0.3086994646416636	necessary	50	2	False
+CCTX026	thyroid cancer	ENSG00000198838	0.2971369069451277	necessary	1	1	False
+CCTX026	thyroid cancer	ENSG00000250361	0.31031426512048477	necessary	2	2	False
+CCTX027	testicular germ cell tumor	ENSG00000002822	0.24671511906767363	necessary	2	1	False
+CCTX027	testicular germ cell tumor	ENSG00000020256	0.16322781874229472	necessary	1	1	False
+CCTX027	testicular germ cell tumor	ENSG00000030110	0.30930769116327195	necessary	19	2	False
+CCTX027	testicular germ cell tumor	ENSG00000033327	0.35555117113932483	necessary	2	2	False
+CCTX027	testicular germ cell tumor	ENSG00000049130	0.42983792820100886	necessary	41	3	False
+CCTX027	testicular germ cell tumor	ENSG00000065559	0.18501244800266392	necessary	1	1	False
+CCTX027	testicular germ cell tumor	ENSG00000068078	0.6181463222002138	necessary	38	4	False
+CCTX027	testicular germ cell tumor	ENSG00000072786	0.23126556000332993	necessary	2	2	False
+CCTX027	testicular germ cell tumor	ENSG00000075292	0.2707132746149895	necessary	1	1	False
+CCTX027	testicular germ cell tumor	ENSG00000092345	0.41919159819850105	necessary	6	3	False
+CCTX027	testicular germ cell tumor	ENSG00000111596	0.2043747102637612	necessary	1	1	False
+CCTX027	testicular germ cell tumor	ENSG00000114126	0.2665674258727729	necessary	1	1	False
+CCTX027	testicular germ cell tumor	ENSG00000114850	0.3150568526983526	necessary	2	1	False
+CCTX027	testicular germ cell tumor	ENSG00000115760	0.22155071490801312	necessary	1	1	False
+CCTX027	testicular germ cell tumor	ENSG00000118046	0.6435637159156465	necessary	67	6	False
+CCTX027	testicular germ cell tumor	ENSG00000121879	0.24736361604050203	necessary	11	3	False
+CCTX027	testicular germ cell tumor	ENSG00000133703	0.44128583108906777	necessary	33	3	False
+CCTX027	testicular germ cell tumor	ENSG00000137090	0.4451362862875299	necessary	22	3	False
+CCTX027	testicular germ cell tumor	ENSG00000138757	0.22978408999724703	necessary	1	1	False
+CCTX027	testicular germ cell tumor	ENSG00000138778	0.36231537867327523	necessary	3	1	False
+CCTX027	testicular germ cell tumor	ENSG00000142867	0.5051239548724583	necessary	8	3	False
+CCTX027	testicular germ cell tumor	ENSG00000143179	0.34879958963536134	necessary	4	2	False
+CCTX027	testicular germ cell tumor	ENSG00000148400	0.1835153381640145	necessary	3	2	False
+CCTX027	testicular germ cell tumor	ENSG00000155393	0.19607858444755222	necessary	2	2	False
+CCTX027	testicular germ cell tumor	ENSG00000157404	0.4895060664682341	necessary	201	6	False
+CCTX027	testicular germ cell tumor	ENSG00000160294	0.2092939869649869	necessary	2	2	False
+CCTX027	testicular germ cell tumor	ENSG00000160783	0.16730971842490774	necessary	2	1	False
+CCTX027	testicular germ cell tumor	ENSG00000164039	0.2760406312927311	necessary	4	2	False
+CCTX027	testicular germ cell tumor	ENSG00000164362	0.3030849983196287	necessary	11	2	False
+CCTX027	testicular germ cell tumor	ENSG00000165495	0.2545335119067907	necessary	1	1	False
+CCTX027	testicular germ cell tumor	ENSG00000166450	0.3304756833518348	necessary	1	1	False
+CCTX027	testicular germ cell tumor	ENSG00000166780	0.2737444093132372	necessary	1	1	False
+CCTX027	testicular germ cell tumor	ENSG00000168411	0.3831684739961608	necessary	4	3	False
+CCTX027	testicular germ cell tumor	ENSG00000168702	0.16847904244390988	necessary	1	1	False
+CCTX027	testicular germ cell tumor	ENSG00000171608	0.28451302142949353	necessary	3	2	False
+CCTX027	testicular germ cell tumor	ENSG00000171681	0.19740814406626953	necessary	8	2	False
+CCTX027	testicular germ cell tumor	ENSG00000174442	0.15649384850498438	necessary	2	1	False
+CCTX027	testicular germ cell tumor	ENSG00000174718	0.29513612514134596	necessary	1	1	False
+CCTX027	testicular germ cell tumor	ENSG00000175600	0.17799248657628758	necessary	1	1	False
+CCTX027	testicular germ cell tumor	ENSG00000179059	0.3449641592516848	necessary	3	3	False
+CCTX027	testicular germ cell tumor	ENSG00000179588	0.3369445238647291	necessary	2	1	False
+CCTX027	testicular germ cell tumor	ENSG00000182362	0.1700632553170849	necessary	1	1	False
+CCTX027	testicular germ cell tumor	ENSG00000187514	0.37002489600532784	necessary	1	1	False
+CCTX027	testicular germ cell tumor	ENSG00000187678	0.2438255163216811	necessary	29	2	False
+CCTX027	testicular germ cell tumor	ENSG00000196159	0.17884377385194722	necessary	1	1	False
+CCTX027	testicular germ cell tumor	ENSG00000196712	0.18825293788296038	necessary	8	2	False
+CCTX027	testicular germ cell tumor	ENSG00000213281	0.27323623526204216	necessary	11	3	False
+CCTX027	testicular germ cell tumor	ENSG00000213967	0.2518248532163189	necessary	2	1	False
+CCTX027	testicular germ cell tumor	ENSG00000269067	0.16842643949230282	necessary	1	1	False
+CCTX027	testicular germ cell tumor	ENSG00000275410	0.3879044564020017	necessary	9	2	False

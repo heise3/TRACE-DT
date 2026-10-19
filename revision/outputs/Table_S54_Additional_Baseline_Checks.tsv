@@ -1,0 +1,365 @@
+context_id	pool	score	min_rows	baseline_match
+CCTX001	unrestricted	associationScore	1	True
+CCTX001	unrestricted	associationScore	2	True
+CCTX001	unrestricted	associationScore	3	True
+CCTX001	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX001	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX001	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX001	restricted	associationScore	1	True
+CCTX001	restricted	associationScore	2	True
+CCTX001	restricted	associationScore	3	True
+CCTX001	restricted	B01_EXACT_REPLAY	1	True
+CCTX001	restricted	B01_EXACT_REPLAY	2	True
+CCTX001	restricted	B01_EXACT_REPLAY	3	True
+CCTX002	unrestricted	associationScore	1	True
+CCTX002	unrestricted	associationScore	2	True
+CCTX002	unrestricted	associationScore	3	True
+CCTX002	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX002	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX002	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX002	restricted	associationScore	1	True
+CCTX002	restricted	associationScore	2	True
+CCTX002	restricted	associationScore	3	True
+CCTX002	restricted	B01_EXACT_REPLAY	1	True
+CCTX002	restricted	B01_EXACT_REPLAY	2	True
+CCTX002	restricted	B01_EXACT_REPLAY	3	True
+CCTX003	unrestricted	associationScore	1	True
+CCTX003	unrestricted	associationScore	2	True
+CCTX003	unrestricted	associationScore	3	True
+CCTX003	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX003	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX003	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX003	restricted	associationScore	1	True
+CCTX003	restricted	associationScore	2	True
+CCTX003	restricted	associationScore	3	True
+CCTX003	restricted	B01_EXACT_REPLAY	1	True
+CCTX003	restricted	B01_EXACT_REPLAY	2	True
+CCTX003	restricted	B01_EXACT_REPLAY	3	True
+CCTX004	unrestricted	associationScore	1	True
+CCTX004	unrestricted	associationScore	2	True
+CCTX004	unrestricted	associationScore	3	True
+CCTX004	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX004	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX004	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX004	restricted	associationScore	1	True
+CCTX004	restricted	associationScore	2	True
+CCTX004	restricted	associationScore	3	True
+CCTX004	restricted	B01_EXACT_REPLAY	1	True
+CCTX004	restricted	B01_EXACT_REPLAY	2	True
+CCTX004	restricted	B01_EXACT_REPLAY	3	True
+CCTX005	unrestricted	associationScore	1	True
+CCTX005	unrestricted	associationScore	2	True
+CCTX005	unrestricted	associationScore	3	True
+CCTX005	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX005	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX005	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX005	restricted	associationScore	1	True
+CCTX005	restricted	associationScore	2	True
+CCTX005	restricted	associationScore	3	True
+CCTX005	restricted	B01_EXACT_REPLAY	1	True
+CCTX005	restricted	B01_EXACT_REPLAY	2	True
+CCTX005	restricted	B01_EXACT_REPLAY	3	True
+CCTX006	unrestricted	associationScore	1	True
+CCTX006	unrestricted	associationScore	2	True
+CCTX006	unrestricted	associationScore	3	True
+CCTX006	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX006	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX006	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX006	restricted	associationScore	1	True
+CCTX006	restricted	associationScore	2	True
+CCTX006	restricted	associationScore	3	True
+CCTX006	restricted	B01_EXACT_REPLAY	1	True
+CCTX006	restricted	B01_EXACT_REPLAY	2	True
+CCTX006	restricted	B01_EXACT_REPLAY	3	True
+CCTX007	unrestricted	associationScore	1	True
+CCTX007	unrestricted	associationScore	2	True
+CCTX007	unrestricted	associationScore	3	True
+CCTX007	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX007	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX007	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX007	restricted	associationScore	1	True
+CCTX007	restricted	associationScore	2	True
+CCTX007	restricted	associationScore	3	True
+CCTX007	restricted	B01_EXACT_REPLAY	1	True
+CCTX007	restricted	B01_EXACT_REPLAY	2	True
+CCTX007	restricted	B01_EXACT_REPLAY	3	True
+CCTX008	unrestricted	associationScore	1	True
+CCTX008	unrestricted	associationScore	2	True
+CCTX008	unrestricted	associationScore	3	True
+CCTX008	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX008	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX008	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX008	restricted	associationScore	1	True
+CCTX008	restricted	associationScore	2	True
+CCTX008	restricted	associationScore	3	True
+CCTX008	restricted	B01_EXACT_REPLAY	1	True
+CCTX008	restricted	B01_EXACT_REPLAY	2	True
+CCTX008	restricted	B01_EXACT_REPLAY	3	True
+CCTX009	unrestricted	associationScore	1	True
+CCTX009	unrestricted	associationScore	2	True
+CCTX009	unrestricted	associationScore	3	True
+CCTX009	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX009	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX009	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX009	restricted	associationScore	1	True
+CCTX009	restricted	associationScore	2	True
+CCTX009	restricted	associationScore	3	True
+CCTX009	restricted	B01_EXACT_REPLAY	1	True
+CCTX009	restricted	B01_EXACT_REPLAY	2	True
+CCTX009	restricted	B01_EXACT_REPLAY	3	True
+CCTX010	unrestricted	associationScore	1	True
+CCTX010	unrestricted	associationScore	2	True
+CCTX010	unrestricted	associationScore	3	True
+CCTX010	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX010	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX010	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX010	restricted	associationScore	1	True
+CCTX010	restricted	associationScore	2	True
+CCTX010	restricted	associationScore	3	True
+CCTX010	restricted	B01_EXACT_REPLAY	1	True
+CCTX010	restricted	B01_EXACT_REPLAY	2	True
+CCTX010	restricted	B01_EXACT_REPLAY	3	True
+CCTX011	unrestricted	associationScore	1	True
+CCTX011	unrestricted	associationScore	2	True
+CCTX011	unrestricted	associationScore	3	True
+CCTX011	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX011	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX011	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX011	restricted	associationScore	1	True
+CCTX011	restricted	associationScore	2	True
+CCTX011	restricted	associationScore	3	True
+CCTX011	restricted	B01_EXACT_REPLAY	1	True
+CCTX011	restricted	B01_EXACT_REPLAY	2	True
+CCTX011	restricted	B01_EXACT_REPLAY	3	True
+CCTX012	unrestricted	associationScore	1	True
+CCTX012	unrestricted	associationScore	2	True
+CCTX012	unrestricted	associationScore	3	True
+CCTX012	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX012	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX012	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX012	restricted	associationScore	1	True
+CCTX012	restricted	associationScore	2	True
+CCTX012	restricted	associationScore	3	True
+CCTX012	restricted	B01_EXACT_REPLAY	1	True
+CCTX012	restricted	B01_EXACT_REPLAY	2	True
+CCTX012	restricted	B01_EXACT_REPLAY	3	True
+CCTX014	unrestricted	associationScore	1	True
+CCTX014	unrestricted	associationScore	2	True
+CCTX014	unrestricted	associationScore	3	True
+CCTX014	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX014	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX014	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX014	restricted	associationScore	1	True
+CCTX014	restricted	associationScore	2	True
+CCTX014	restricted	associationScore	3	True
+CCTX014	restricted	B01_EXACT_REPLAY	1	True
+CCTX014	restricted	B01_EXACT_REPLAY	2	True
+CCTX014	restricted	B01_EXACT_REPLAY	3	True
+CCTX017	unrestricted	associationScore	1	True
+CCTX017	unrestricted	associationScore	2	True
+CCTX017	unrestricted	associationScore	3	True
+CCTX017	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX017	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX017	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX017	restricted	associationScore	1	True
+CCTX017	restricted	associationScore	2	True
+CCTX017	restricted	associationScore	3	True
+CCTX017	restricted	B01_EXACT_REPLAY	1	True
+CCTX017	restricted	B01_EXACT_REPLAY	2	True
+CCTX017	restricted	B01_EXACT_REPLAY	3	True
+CCTX019	unrestricted	associationScore	1	True
+CCTX019	unrestricted	associationScore	2	True
+CCTX019	unrestricted	associationScore	3	True
+CCTX019	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX019	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX019	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX019	restricted	associationScore	1	True
+CCTX019	restricted	associationScore	2	True
+CCTX019	restricted	associationScore	3	True
+CCTX019	restricted	B01_EXACT_REPLAY	1	True
+CCTX019	restricted	B01_EXACT_REPLAY	2	True
+CCTX019	restricted	B01_EXACT_REPLAY	3	True
+CCTX020	unrestricted	associationScore	1	True
+CCTX020	unrestricted	associationScore	2	True
+CCTX020	unrestricted	associationScore	3	True
+CCTX020	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX020	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX020	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX020	restricted	associationScore	1	True
+CCTX020	restricted	associationScore	2	True
+CCTX020	restricted	associationScore	3	True
+CCTX020	restricted	B01_EXACT_REPLAY	1	True
+CCTX020	restricted	B01_EXACT_REPLAY	2	True
+CCTX020	restricted	B01_EXACT_REPLAY	3	True
+CCTX021	unrestricted	associationScore	1	True
+CCTX021	unrestricted	associationScore	2	True
+CCTX021	unrestricted	associationScore	3	True
+CCTX021	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX021	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX021	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX021	restricted	associationScore	1	True
+CCTX021	restricted	associationScore	2	True
+CCTX021	restricted	associationScore	3	True
+CCTX021	restricted	B01_EXACT_REPLAY	1	True
+CCTX021	restricted	B01_EXACT_REPLAY	2	True
+CCTX021	restricted	B01_EXACT_REPLAY	3	True
+CCTX022	unrestricted	associationScore	1	True
+CCTX022	unrestricted	associationScore	2	True
+CCTX022	unrestricted	associationScore	3	True
+CCTX022	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX022	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX022	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX022	restricted	associationScore	1	True
+CCTX022	restricted	associationScore	2	True
+CCTX022	restricted	associationScore	3	True
+CCTX022	restricted	B01_EXACT_REPLAY	1	True
+CCTX022	restricted	B01_EXACT_REPLAY	2	True
+CCTX022	restricted	B01_EXACT_REPLAY	3	True
+CCTX023	unrestricted	associationScore	1	True
+CCTX023	unrestricted	associationScore	2	True
+CCTX023	unrestricted	associationScore	3	True
+CCTX023	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX023	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX023	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX023	restricted	associationScore	1	True
+CCTX023	restricted	associationScore	2	True
+CCTX023	restricted	associationScore	3	True
+CCTX023	restricted	B01_EXACT_REPLAY	1	True
+CCTX023	restricted	B01_EXACT_REPLAY	2	True
+CCTX023	restricted	B01_EXACT_REPLAY	3	True
+CCTX024	unrestricted	associationScore	1	True
+CCTX024	unrestricted	associationScore	2	True
+CCTX024	unrestricted	associationScore	3	True
+CCTX024	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX024	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX024	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX024	restricted	associationScore	1	True
+CCTX024	restricted	associationScore	2	True
+CCTX024	restricted	associationScore	3	True
+CCTX024	restricted	B01_EXACT_REPLAY	1	True
+CCTX024	restricted	B01_EXACT_REPLAY	2	True
+CCTX024	restricted	B01_EXACT_REPLAY	3	True
+CCTX025	unrestricted	associationScore	1	True
+CCTX025	unrestricted	associationScore	2	True
+CCTX025	unrestricted	associationScore	3	True
+CCTX025	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX025	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX025	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX025	restricted	associationScore	1	True
+CCTX025	restricted	associationScore	2	True
+CCTX025	restricted	associationScore	3	True
+CCTX025	restricted	B01_EXACT_REPLAY	1	True
+CCTX025	restricted	B01_EXACT_REPLAY	2	True
+CCTX025	restricted	B01_EXACT_REPLAY	3	True
+CCTX026	unrestricted	associationScore	1	True
+CCTX026	unrestricted	associationScore	2	True
+CCTX026	unrestricted	associationScore	3	True
+CCTX026	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX026	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX026	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX026	restricted	associationScore	1	True
+CCTX026	restricted	associationScore	2	True
+CCTX026	restricted	associationScore	3	True
+CCTX026	restricted	B01_EXACT_REPLAY	1	True
+CCTX026	restricted	B01_EXACT_REPLAY	2	True
+CCTX026	restricted	B01_EXACT_REPLAY	3	True
+CCTX027	unrestricted	associationScore	1	True
+CCTX027	unrestricted	associationScore	2	True
+CCTX027	unrestricted	associationScore	3	True
+CCTX027	unrestricted	B01_EXACT_REPLAY	1	True
+CCTX027	unrestricted	B01_EXACT_REPLAY	2	True
+CCTX027	unrestricted	B01_EXACT_REPLAY	3	True
+CCTX027	restricted	associationScore	1	True
+CCTX027	restricted	associationScore	2	True
+CCTX027	restricted	associationScore	3	True
+CCTX027	restricted	B01_EXACT_REPLAY	1	True
+CCTX027	restricted	B01_EXACT_REPLAY	2	True
+CCTX027	restricted	B01_EXACT_REPLAY	3	True
+DOID:0060058	DISEASES	TEXTMINING		True
+DOID:0060058	DISEASES	INTEGRATED		True
+DOID:0060076	DISEASES	EXPERIMENTS		True
+DOID:0060076	DISEASES	INTEGRATED		True
+DOID:0060081	DISEASES	EXPERIMENTS		True
+DOID:0060081	DISEASES	INTEGRATED		True
+DOID:0060108	DISEASES	EXPERIMENTS		True
+DOID:0060108	DISEASES	INTEGRATED		True
+DOID:10283	DISEASES	TEXTMINING		True
+DOID:10283	DISEASES	INTEGRATED		True
+DOID:10286	DISEASES	EXPERIMENTS		True
+DOID:10286	DISEASES	INTEGRATED		True
+DOID:1040	DISEASES	EXPERIMENTS		True
+DOID:1040	DISEASES	INTEGRATED		True
+DOID:10534	DISEASES	TEXTMINING		True
+DOID:10534	DISEASES	INTEGRATED		True
+DOID:11054	DISEASES	TEXTMINING		True
+DOID:11054	DISEASES	INTEGRATED		True
+DOID:1107	DISEASES	EXPERIMENTS		True
+DOID:1107	DISEASES	INTEGRATED		True
+DOID:1115	DISEASES	TEXTMINING		True
+DOID:1115	DISEASES	INTEGRATED		True
+DOID:11934	DISEASES	TEXTMINING		True
+DOID:11934	DISEASES	INTEGRATED		True
+DOID:1240	DISEASES	TEXTMINING		True
+DOID:1240	DISEASES	INTEGRATED		True
+DOID:1324	DISEASES	TEXTMINING		True
+DOID:1324	DISEASES	INTEGRATED		True
+DOID:1612	DISEASES	TEXTMINING		True
+DOID:1612	DISEASES	INTEGRATED		True
+DOID:1749	DISEASES	EXPERIMENTS		True
+DOID:1749	DISEASES	INTEGRATED		True
+DOID:1781	DISEASES	TEXTMINING		True
+DOID:1781	DISEASES	INTEGRATED		True
+DOID:1793	DISEASES	TEXTMINING		True
+DOID:1793	DISEASES	INTEGRATED		True
+DOID:1909	DISEASES	TEXTMINING		True
+DOID:1909	DISEASES	EXPERIMENTS		True
+DOID:1909	DISEASES	INTEGRATED		True
+DOID:2394	DISEASES	TEXTMINING		True
+DOID:2394	DISEASES	INTEGRATED		True
+DOID:2513	DISEASES	EXPERIMENTS		True
+DOID:2513	DISEASES	INTEGRATED		True
+DOID:2871	DISEASES	EXPERIMENTS		True
+DOID:2871	DISEASES	INTEGRATED		True
+DOID:305	DISEASES	TEXTMINING		True
+DOID:305	DISEASES	INTEGRATED		True
+DOID:3068	DISEASES	TEXTMINING		True
+DOID:3068	DISEASES	EXPERIMENTS		True
+DOID:3068	DISEASES	INTEGRATED		True
+DOID:3459	DISEASES	EXPERIMENTS		True
+DOID:3459	DISEASES	INTEGRATED		True
+DOID:3620	DISEASES	EXPERIMENTS		True
+DOID:3620	DISEASES	INTEGRATED		True
+DOID:3905	DISEASES	EXPERIMENTS		True
+DOID:3905	DISEASES	INTEGRATED		True
+DOID:3907	DISEASES	EXPERIMENTS		True
+DOID:3907	DISEASES	INTEGRATED		True
+DOID:3910	DISEASES	EXPERIMENTS		True
+DOID:3910	DISEASES	INTEGRATED		True
+DOID:4001	DISEASES	EXPERIMENTS		True
+DOID:4001	DISEASES	INTEGRATED		True
+DOID:4159	DISEASES	TEXTMINING		True
+DOID:4159	DISEASES	INTEGRATED		True
+DOID:4362	DISEASES	TEXTMINING		True
+DOID:4362	DISEASES	EXPERIMENTS		True
+DOID:4362	DISEASES	INTEGRATED		True
+DOID:4905	DISEASES	EXPERIMENTS		True
+DOID:4905	DISEASES	INTEGRATED		True
+DOID:4914	DISEASES	EXPERIMENTS		True
+DOID:4914	DISEASES	INTEGRATED		True
+DOID:5517	DISEASES	EXPERIMENTS		True
+DOID:5517	DISEASES	INTEGRATED		True
+DOID:5557	DISEASES	EXPERIMENTS		True
+DOID:5557	DISEASES	INTEGRATED		True
+DOID:684	DISEASES	EXPERIMENTS		True
+DOID:684	DISEASES	INTEGRATED		True
+DOID:769	DISEASES	TEXTMINING		True
+DOID:769	DISEASES	INTEGRATED		True
+DOID:8567	DISEASES	EXPERIMENTS		True
+DOID:8567	DISEASES	INTEGRATED		True
+DOID:8923	DISEASES	EXPERIMENTS		True
+DOID:8923	DISEASES	INTEGRATED		True
+DOID:9256	DISEASES	TEXTMINING		True
+DOID:9256	DISEASES	INTEGRATED		True
+DOID:9538	DISEASES	TEXTMINING		True
+DOID:9538	DISEASES	EXPERIMENTS		True
+DOID:9538	DISEASES	INTEGRATED		True

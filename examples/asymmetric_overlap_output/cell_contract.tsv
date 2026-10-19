@@ -1,0 +1,3 @@
+context_id	specification_id	candidate_n	budget	cutoff_score	necessary_n	tie_block_n	remaining_tie_seats	possible_n	boundary_set_valued
+ASYMMETRIC	VIEW_A	6	2	2.0	1	3	1	4	1
+ASYMMETRIC	VIEW_B	6	2	2.0	1	4	1	5	1

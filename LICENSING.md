@@ -1,0 +1,5 @@
+# Licensing scope
+
+The generic engine and author-written software in this repository are distributed under MIT. On 19 October 2026 the project contact confirmed explicit approval from Peng Liang and BaoLong Li for the previously enumerated 42 author-code files. AUTHOR_CODE_LICENSE_SCOPE.csv identifies those files and original hashes. This additional MIT grant applies to those exact code files even when earlier preserved snapshots carry review-only notices. Earlier DOI archives remain byte unchanged; the addendum does not rewrite their historical notices. Newly supplied author-written analysis scripts are also MIT.
+
+This grant does not relicense datasets, third-party implementations, papers or images. The original derived-data archive retains its component-specific terms. Data copied into revision/inputs retain those same source terms, documented in SOURCE_LICENSES.tsv and the original record. No blanket CC0 or MIT grant is made for third-party content. The original archive is available at https://doi.org/10.5281/zenodo.23353811.

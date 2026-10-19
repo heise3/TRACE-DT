@@ -1,0 +1,17 @@
+context_id	specification_id	candidate_id	score	deterministic_selected	necessary_selected	possible_selected	uniform_tie_selection_probability
+DEMO	VIEW_A	C01	0.95	1	1	1	1.0
+DEMO	VIEW_A	C02	0.9	1	1	1	1.0
+DEMO	VIEW_A	C03	0.8	1	0	1	0.5
+DEMO	VIEW_A	C04	0.8	0	0	1	0.5
+DEMO	VIEW_A	C05	0.6	0	0	0	0.0
+DEMO	VIEW_A	C06	0.5	0	0	0	0.0
+DEMO	VIEW_A	C07	0.4	0	0	0	0.0
+DEMO	VIEW_A	C08	0.3	0	0	0	0.0
+DEMO	VIEW_B	C01	0.7	0	0	0	0.0
+DEMO	VIEW_B	C02	0.9	1	1	1	1.0
+DEMO	VIEW_B	C03	0.85	1	1	1	1.0
+DEMO	VIEW_B	C04	0.85	1	1	1	1.0
+DEMO	VIEW_B	C05	0.65	0	0	0	0.0
+DEMO	VIEW_B	C06	0.55	0	0	0	0.0
+DEMO	VIEW_B	C07	0.45	0	0	0	0.0
+DEMO	VIEW_B	C08	0.35	0	0	0	0.0
