@@ -12,6 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
 from trace_rank_audit import (
+    __version__,
     build_cell,
     exact_intersection_bounds,
     expected_intersection,
@@ -183,7 +184,7 @@ class TestTraceRankAudit(unittest.TestCase):
             receipt = json.loads(
                 (output_dir / "audit_receipt.json").read_text(encoding="utf-8")
             )
-            self.assertEqual(receipt["engine_version"], "1.2.1")
+            self.assertEqual(receipt["engine_version"], __version__)
 
     def test_necessary_membership_equals_intersection_of_all_legal_lists(self):
         """Exhaustively verify the defining quantifier for all N <= 6."""
