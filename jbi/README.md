@@ -1,0 +1,1 @@
+The v1.3.0 release asset Software_and_Data.zip contains the native-view and consensus computational materials, input hashes and replay instructions. Earlier revision/ files retain their historical v1.2.1.post1 scope. No manuscript text is included in the new computational archive.

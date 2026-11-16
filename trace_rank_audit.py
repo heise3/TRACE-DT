@@ -33,7 +33,7 @@ from pathlib import Path
 
 
 REQUIRED = {"context_id", "candidate_id", "specification_id", "score"}
-__version__ = "1.2.1"
+__version__ = "1.3.0"
 
 CELL_COLUMNS = (
     "context_id",
@@ -363,11 +363,19 @@ def run(
     tie_tolerance: float = 0.0,
     emit_target_membership: bool = True,
     receipt_completed_utc: str | None = None,
+    consensus_thresholds: tuple[int, ...] | None = None,
+    consensus_node_limit: int = 100000,
+    consensus_time_limit: float = 10.0,
 ) -> dict[str, object]:
     if budget <= 0:
         raise ValueError("Budget must be positive")
     tie_tolerance = validate_tie_tolerance(tie_tolerance)
     receipt_completed_utc = validate_receipt_completed_utc(receipt_completed_utc)
+    if consensus_thresholds is not None:
+        if not consensus_thresholds or any(type(q) is not int or q<1 for q in consensus_thresholds):
+            raise ValueError('Consensus thresholds must be positive integers')
+        if consensus_node_limit<0 or not math.isfinite(consensus_time_limit) or consensus_time_limit<0:
+            raise ValueError('Consensus limits must be finite and nonnegative')
     # Refuse to merge a new run with any pre-existing output.  In particular,
     # a second run with --skip-target-membership must never leave a stale
     # target_membership.tsv from an earlier run while claiming that the file
@@ -511,6 +519,27 @@ def run(
         "bounds_valid": bounds_valid,
         "completed_utc": receipt_completed_utc or datetime.now(timezone.utc).isoformat(),
     }
+    if consensus_thresholds is not None:
+        from trace_consensus import consensus_bounds
+        results=[];witnesses=[]
+        for context_id, group in sorted(by_context.items()):
+            group=sorted(group,key=lambda c:c.specification_id)
+            for q in sorted(set(consensus_thresholds)):
+                if q>len(group):
+                    results.append(dict(context_id=context_id,q=q,M=len(group),status='NON_EVALUABLE_Q_GT_M'))
+                    continue
+                result=consensus_bounds(group,q,consensus_node_limit,consensus_time_limit)
+                witnesses.append(dict(context_id=context_id,**result))
+                results.append(dict(context_id=context_id,**{k:v for k,v in result.items() if k not in ['witness_min','witness_max','specifications']}))
+        fields=('context_id','q','M','status','marginal_lower','marginal_upper','certified_lower','minimum_feasible','maximum_feasible','certified_upper','minimum_proven','maximum_proven','nodes_min','nodes_max')
+        write_tsv(output_dir/'consensus_audit.tsv',results,fields)
+        (output_dir/'consensus_witnesses.json').write_text(json.dumps(witnesses,indent=2,allow_nan=False)+'\n',encoding='utf-8')
+        summary['consensus']={'thresholds':sorted(set(consensus_thresholds)),
+                              'node_limit_per_endpoint':consensus_node_limit,
+                              'time_limit_per_endpoint':consensus_time_limit,
+                              'exact':sum(r['status']=='EXACT' for r in results),
+                              'bounded_not_exact':sum(r['status']=='BOUNDED_NOT_EXACT' for r in results),
+                              'non_evaluable':sum(r['status'].startswith('NON_EVALUABLE') for r in results)}
     receipt_json = json.dumps(summary, indent=2, allow_nan=False) + "\n"
     (output_dir / "audit_receipt.json").write_text(receipt_json, encoding="utf-8")
     return summary
@@ -540,6 +569,9 @@ def main() -> int:
         ),
     )
     parser.add_argument("--version", action="version", version=__version__)
+    parser.add_argument('--consensus-thresholds',default=None,help='Optional comma-separated q values, e.g. 1,2,3. Extra consensus reports preserve old TSV outputs.')
+    parser.add_argument('--consensus-node-limit',type=int,default=100000)
+    parser.add_argument('--consensus-time-limit',type=float,default=10.)
     args = parser.parse_args()
     if args.budget <= 0:
         raise ValueError("Budget must be positive")
@@ -551,6 +583,9 @@ def main() -> int:
         tie_tolerance,
         emit_target_membership=not args.skip_target_membership,
         receipt_completed_utc=args.receipt_completed_utc,
+        consensus_thresholds=tuple(int(q) for q in args.consensus_thresholds.split(',')) if args.consensus_thresholds is not None else None,
+        consensus_node_limit=args.consensus_node_limit,
+        consensus_time_limit=args.consensus_time_limit,
     )
     print(json.dumps(summary, indent=2, allow_nan=False))
     return 0 if summary["gate"] == "PASS" else 2

@@ -1,42 +1,54 @@
-# TRACE-DT
+# TRACE-DT v1.3.0
 
-Audit necessary and possible membership and exact pairwise substitution bounds in fixed-capacity ranked score tables. The engine uses only the Python standard library. Packaging version **1.2.1.post1**, unchanged calculation engine **1.2.1**. Python 3.10 or later.
+Audit necessary/possible shortlist membership, exact pairwise seat replacement,
+and capacity-coupled q-of-M consensus. Python >=3.10; no third-party runtime dependencies.
+The optional consensus output distinguishes proven optima from certified outer
+bounds and includes explicit feasible allocations. See [CONSENSUS.md](CONSENSUS.md).
 
-## Install and run in five minutes
+## Install and run
 
 ```sh
-python -m pip install "git+https://github.com/heise3/TRACE-DT.git@v1.2.1.post1"
+python -m pip install "git+https://github.com/heise3/TRACE-DT.git@v1.3.0"
 trace-dt --help
 ```
 
-To run the supplied examples and tests:
+From the supplied source archive:
 
 ```sh
-git clone --branch v1.2.1.post1 https://github.com/heise3/TRACE-DT.git
-cd TRACE-DT
 python -m pip install .
+trace-dt --input examples/consensus_scores.tsv --budget 2 --consensus-thresholds 1,2,3 --output-dir consensus_result
 python -m unittest discover -s tests -v
-trace-dt --input examples/example_scores.tsv --budget 3 --output-dir /tmp/trace-dt-example-new
 ```
 
-Use a new output directory. See examples/ for both small score tables and expected cell_contract.tsv, target_membership.tsv and pairwise_audit.tsv. Inputs contain context_id, candidate_id, specification_id and finite score. Scores are not recomputed by the engine. Duplicate candidates, invalid scores and insufficient capacity are rejected. Necessary means selected in every admissible tie resolution; possible means selected in at least one. Exact pairwise bounds describe exchanges permitted by cutoff ties.
+Use a new output directory. The consensus teaching fixture has marginal counts
+[0,3] and exact joint size [2,3] at q=2. An installed-wheel alternative is included
+with the release. Inputs use context_id, candidate_id, specification_id and score.
+Duplicate candidates, nonfinite scores and insufficient capacity are rejected.
+The established three TSV output schemas and values remain compatible; consensus
+adds optional output files and the receipt identifies the new engine version.
 
-## Verification
+## Verification and computational materials
 
-The unchanged engine passed 21 tests and both examples reproduced their three expected TSVs byte for byte on macOS. Public [GitHub Actions run 39242947069](https://github.com/heise3/TRACE-DT/actions/runs/39242947069), using ubuntu-latest and Python 3.12, passed installation, the test suite and byte-identical example-table checks for the released commit. These are functional checks, not cross-platform performance measurements. A real ovarian-context derived-data replay is included; complete raw-to-derived acquisition is not claimed.
+The v1.3.0 macOS suite has 27 passing test methods, including exhaustive small
+consensus fixtures, pairwise reduction and interrupted-search enclosure. Three
+legacy examples reproduce all nine established TSVs byte for byte. The current
+GitHub Actions status records Linux installation and test execution for each commit.
+These checks concern correctness and compatibility, not platform performance.
 
-The installable software and revision inputs and outputs are archived at [Zenodo 10.5281/zenodo.23472693](https://doi.org/10.5281/zenodo.23472693). The archive matches tag v1.2.1.post1; later documentation updates do not change that frozen release.
+The v1.3.0 release asset Software_and_Data.zip contains complete derived inputs,
+native-view replay scripts, all 811 consensus tasks and their witnesses, source
+inventories and hashes. It contains no manuscript text. General consensus search
+can remain bounded rather than exact; always retain proof status with endpoints.
 
-## Scientific applications and data
+The earlier installable software and revision-data archive remains at
+[Zenodo 10.5281/zenodo.23472693](https://doi.org/10.5281/zenodo.23472693), matching
+v1.2.1.post1. It does not contain the new consensus module. The earlier full archive
+is [Zenodo 10.5281/zenodo.23353811](https://doi.org/10.5281/zenodo.23353811).
+Existing DOI contents and historical release tags are preserved.
 
-revision/ contains frozen unrestricted and restricted official-score inputs, DISEASES view inputs, new output tables and reproduction scripts. See revision/README.md. Single-cell memberships equal the elementary cutoff-block baseline; the tool integrates this calculation with cross-list exact bounds and reports. No biological or therapeutic validity is inferred from necessary membership.
+## Registry and licensing
 
-The unchanged earlier full code/data archive is [Zenodo 10.5281/zenodo.23353811](https://doi.org/10.5281/zenodo.23353811), with a [single-file GitHub mirror](https://github.com/heise3/TRACE-DT/releases/tag/r40-2026-10-13). Original ZIP SHA-256: df8ff4e84a6aef9f5e9f1c15524c60b04c553b345b901ab697dc177c678de141. The earlier snapshot is distinct from the new revision outputs.
-
-## Registry
-
-bio.tools ID: [trace-dt](https://bio.tools/trace-dt).
-
-## License
-
-Author software is MIT; see LICENSE, LICENSING.md and AUTHOR_CODE_LICENSE_SCOPE.csv. Data and third-party components retain their existing source-specific rights. The historical author-code copies remain byte identical and are covered by the explicit MIT addendum. No blanket data or image relicensing is asserted.
+[bio.tools:trace-dt](https://bio.tools/trace-dt); RRID:SCR_029151.
+Author-owned software and analysis scripts are MIT. See LICENSE, LICENSING.md and
+AUTHOR_CODE_LICENSE_SCOPE.csv. Third-party datasets and historical components
+retain their source-specific rights; software licensing does not relicense data.
